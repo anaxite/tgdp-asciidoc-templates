@@ -1,5 +1,6 @@
 # How-to guide
 
+
 information_source: Read this document before you start working on the [how-to template](how-to-template.md).
 
 ## Introduction
