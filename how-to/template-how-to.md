@@ -1,6 +1,3 @@
-<!-- Copy this Template. -->
-<!-- Describe the title of your article by replacing "How To Template" with the page name you want to publish to. -->
-
 # Title
 
 ::information_source: Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)
@@ -18,8 +15,6 @@ This guide explains how to {insert a brief description of the task}.
 (Optional) Specify when and why your user might want to perform the task.
 
 ## Before you begin
-
-<!-- Delete this section if your readers can go to the steps without requiring any prerequisite knowledge. -->
 
 Before you {insert a brief description of the task}, complete the following prerequisites:
 
