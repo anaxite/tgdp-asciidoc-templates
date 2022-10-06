@@ -1,6 +1,6 @@
 # Title
 
-::information_source: Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)
+:information_source: Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)
 
 ## Overview
 
@@ -9,10 +9,10 @@ This guide explains how to {insert a brief description of the task}.
 :information_source: Here are some examples:
 
 - This guide explains how to comment on a pull request.
-- This guide explains how to create or delete a branch on Github.
+- This guide explains how to create or delete a branch on GitHub.
 - This guide explains how to create a repository.
 
-(Optional) Specify when and why your user might want to perform the task.
+{Optional: Specify when and why your user might want to perform the task.}
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ Before you {insert a brief description of the task}, complete the following prer
 
 Explanatory text
 
-(Optional) Code sample or screenshot that helps your users complete this step.
+{Optional: Code sample or screenshot that helps your users complete this step.}
 
-(Optional) The result of completing this step.
+{Optional: The result of completing this step.}
 
 2.  {Write the step here. Use a verb to start.}
 
