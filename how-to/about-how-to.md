@@ -4,15 +4,15 @@
 
 ## Introduction
 
-The How-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
+The how-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
 
-The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to guide assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
+The how-to clearly describes a set of sequential steps that your users must complete to accomplish a task. The how-to assumes that a user has basic knowledge of the application and has already read the [quickstart](https://gitlab.com/tgdp/templates/-/tree/main/quickstarts) and the [tutorial](https://gitlab.com/tgdp/templates/-/tree/main/tutorial).
 
-Do not use how-to to teach concepts.
+Do not use how-tos to teach concepts.
 
-How-tos are often confused with [tutorials](https://github.com/thegooddocsproject/templates/tree/dev/tutorial). How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
+How-tos are often confused with tutorials. How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
 
-| Tutorials                                                                                                                                       | How-to                                                                                                   |
+| Tutorial                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Learning oriented                                                                                                                               | Task oriented                                                                                            |
 | Helps beginners or expert users learn a new feature, in a practical way.                                                                        | Helps an expert user accomplish a task or troubleshoot an issue.                                         |
