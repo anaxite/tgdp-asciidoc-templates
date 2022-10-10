@@ -24,11 +24,13 @@ Before you {insert a brief description of the task}, complete the following prer
 
 ## {Task name 1}
 
+{Optional: Provide concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
+
 1. {Write the step here. Use a verb to start.}
 
 :information_source: You can use this format to describe your step:
 
-Explanatory text
+{Optional: Explanatory text}
 
 {Optional: Code sample or screenshot that helps your users complete this step.}
 
@@ -39,6 +41,14 @@ Explanatory text
     2.1 {Substep 1}
 
     2.2 {Substep 2}
+
+## {Task name 2}
+
+...
+
+## {Task name n}
+
+...
 
 ## See also
 
