@@ -4,15 +4,15 @@
 
 ## Introduction
 
-The how-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
+The How-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
 
-The how-to clearly describes a set of sequential steps that your users must complete to accomplish a task. The how-to assumes that a user has basic knowledge of the application and has already read the [quickstart](https://gitlab.com/tgdp/templates/-/tree/main/quickstarts) and the [tutorial](https://gitlab.com/tgdp/templates/-/tree/main/tutorial).
+The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to guide assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
 
-Do not use how-tos to teach concepts.
+Do not use how-to to teach concepts.
 
-How-tos are often confused with tutorials. How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
+How-tos are often confused with [tutorials](https://github.com/thegooddocsproject/templates/tree/dev/tutorial). How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
 
-| Tutorial                                                                                                                                       | How-to                                                                                                   |
+| Tutorials                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Learning oriented                                                                                                                               | Task oriented                                                                                            |
 | Helps beginners or expert users learn a new feature, in a practical way.                                                                        | Helps an expert user accomplish a task or troubleshoot an issue.                                         |
@@ -100,7 +100,10 @@ Optionally, provide any helpful cues that signal to a user that they’re probab
 
 The steps section is where you describe what the user needs to do. Use an ordered list structure to document the how-to steps. How you write your steps will vary depending on your organization's style guide. The template organizes the steps in the following way:
 
+```
 {Task name}
+
+{Optional: Provide concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
 1. {Write the action to take here. Start with a verb.}
 
@@ -110,34 +113,42 @@ The steps section is where you describe what the user needs to do. Use an ordere
 
    {Optional: Result}
 
+
+{Optional: If needed, you can add substeps below a primary step. Make sure to indent the substep one tab space over if you're using Markdown.}
+```
+
+Here is an example step:
+
+```
+Create pull request
+Pull requests are used to inform others of changes you have pushed to a branch in a repository. Once a pull request is opened, you can collaborate with reviewers and make changes before merging into the base branch.
+
+1. To create a pull request, do the following:
+
+   a. Navigate to the main page of your repository.
+
+   b. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
+```
+
+If you're including code samples in your steps, make sure they are also indented correctly:
+
+1. Set your Git username for your repository.
+
+   You can change the name that is associated with your Git commits using the `git config` command.
+
+   ```bash
+   git config user.name "Dakota Everson"
+   ```
+
 ### Tips for writing steps
 
 - For task names, start with a bare infinitive also known as plain form or base form verbs. For example, “connect”, “set up”, or “build” and express the heading as a complete thought. Don't use the -ing form of the verb because it is harder to translate. Instead of saying, "Connect", you might say, "Connect to the VM instance”.
 - For each step, optionally provide some background information about the task so users know what they're about to do and why. Continuing with the example, you might provide some best practices for creating memorable repository names.
-- Optionally, add a code sample or screenshot after the explanatory text, depending on the type of how-to you're writing. Screenshots are a great way to show specific parts of the screen you are referring to in a step. Make sure your code samples work.
+- Optionally, add a [code sample](https://developers.google.com/style/code-samples) or [screenshot](https://developers.google.com/style/images) after the explanatory text, depending on the type of how-to you're writing. Screenshots are a great way to show specific parts of the screen you are referring to in a step. Make sure your code samples work and are always up-to-date.
 - Remember to orient your users when walking them through each step. If they need to open a particular file or dialog box to complete the task, provide that information first.
 - Provide examples of sample output such as return data, and a message so that the users can validate whether they performed the step correctly or not. Continuing with the example, you might describe what happens after a user clicks the "Create repository" button.
 - Use plain language and define the terminology of any technical term next to it.
 - Include one action in a step.
-
-Here is an example step:
-
-Create repository
-
-1. Enter a name for your new repository.
-   Good repository names are short and self-explanatory. Avoid repository names with three or more words. After you click "Create repository", GitHub creates your repository and the main page for the repository is displayed. If needed, you can add substeps below a primary step. Make sure to indent the substep one tab space over if you're using Markdown.
-
-Create pull request
-
-1. 2. To create a pull request, do the following:
-
-a. Navigate to the main page of your repository.
-
-b. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
-
-c. If you're including code samples in your steps, make sure they are also indented correctly:
-
-Set your Git username for your repository. You can change the name that is associated with your Git commits using the git config command. git config user.name "Dakota Everson"
 
 ## About the "see also" section
 
