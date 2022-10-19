@@ -1,34 +1,29 @@
 # Title
 
-:information_source: Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)
+ {Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)}
 
 ## Overview
 
 This guide explains how to {insert a brief description of the task}.
 
-:information_source: Here are some examples:
-
-- This guide explains how to comment on a pull request.
-- This guide explains how to create or delete a branch on GitHub.
-- This guide explains how to create a repository.
-
 {Optional: Specify when and why your user might want to perform the task.}
 
 ## Before you begin
 
-Before you {insert a brief description of the task}, complete the following prerequisites:
+Before you {insert a brief description of the task}, ensure:
 
 - Prerequisite 1
 - Prerequisite 2
 - Prerequisite 3
 
+
 ## {Task name 1}
 
 {Optional: Provide concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
-1. {Write the step here. Use a verb to start.}
+{You can use this format to describe your steps:}
 
-:information_source: You can use this format to describe your step:
+1. {Write the step here. Use a verb to start.}
 
 {Optional: Explanatory text}
 
@@ -52,8 +47,9 @@ Before you {insert a brief description of the task}, complete the following prer
 
 ## See also
 
-:information_source: Include references and/or links to other related documentation such as how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
+{Include references and/or links to other related documentation such as how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
 
 - Reference link
 - Concept link
-- Troubleshooting link
+- Troubleshooting link}
+

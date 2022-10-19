@@ -1,12 +1,12 @@
 # How-to guide
 
-:information_source: Read this document before you start working on the [how-to template](how-to-template.md).
+{Read this document before you start working on the [how-to template](how-to-template.md)}.
 
 ## Introduction
 
-The How-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
+The how-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
 
-The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to guide assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
+The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
 
 Do not use how-to to teach concepts.
 
@@ -51,14 +51,20 @@ Before you start working on your how-tos, identify:
 - Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users.
 - Re-test instructions after every notable product release to ensure instructions are still accurate and work end-to-end.
 
-## About the "overview" section
+## About the "Overview" section
 
 Use this section to provide the following:
 
 - A clear description of the problem or task that the user can solve or complete.
 - When and why your user might want to perform the task. For example, in a guide for creating a pull request, you might tell users that pull requests are used to let others know about the changes you have pushed to a branch on a repository.
 
-:information_source: The how-to assumes that a user has basic knowledge of the application and knows what they want to achieve.
+The how-to assumes that a user has basic knowledge of the application and knows what they want to achieve.
+
+Here are some examples:
+
+- This guide explains how to comment on a pull request.
+- This guide explains how to create or delete a branch on GitHub.
+- This guide explains how to create a repository.
 
 If there are multiple scenarios under which the how-to can be applied, you can orient the reader with a table linking guides to scenarios, as per below.
 
@@ -67,7 +73,7 @@ If there are multiple scenarios under which the how-to can be applied, you can o
 | Create a pull request from a fork | The user does not have write permission to the repo. |
 | Create a pull request             | The user has write permission to the repo.           |
 
-## About the "before you begin" section
+## About the "Before you begin" section
 
 In this section describe what your users need to know, or need to have before they attempt the how-to. By stating the requirements up-front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
 
@@ -80,7 +86,7 @@ Use this section to communicate any prerequisites for this how-to, such as:
 - Other guides or information to read
 - Links to procedures or information, or any useful pointers about how to get what they need.
 
-For example:
+Here is an example:
 
 ```markdown
 Before you begin, make sure you meet these prerequisites:
@@ -89,14 +95,13 @@ Before you begin, make sure you meet these prerequisites:
 - Access to the Postman application.
 - A conceptual understanding of RESTful APIs. For more information, see http://example.com/restful_apis.
 - (Optional) A development environment (IDE) that displays API responses formatted for readability.
-- A list of favourites prepared, so you can manage them. For more information about favourites lists, see http://example.com/favorite_lists.
 ```
 
 For easy understanding, consider classifying the prerequisites into different categories such as software prerequisites, and hardware prerequisites.
 
 Optionally, provide any helpful cues that signal to a user that they’re probably not in the right place and provide them with more suitable options. For example, If you are a Linux user, then refer to {link to relevant Linux how-to guide}.
 
-## About the "steps" section
+## About the "Steps" section
 
 The steps section is where you describe what the user needs to do. Use an ordered list structure to document the how-to steps. How you write your steps will vary depending on your organization's style guide. The template organizes the steps in the following way:
 
@@ -150,12 +155,12 @@ If you're including code samples in your steps, make sure they are also indented
 - Use plain language and define the terminology of any technical term next to it.
 - Include one action in a step.
 
-## About the "see also" section
+## About the "See also" section
 
 It's likely that during the course of explaining a multi-task process you will touch on other topics related to the current one, but not strictly required. This section is useful to provide your users with suggestions on further reading without interrupting the topic covered by the current document. An example might be setting up an email client, which requires working credentials to an active email address. The reader need not know how to install and run his/her own email server in order to acquire that access, although this is potentially useful. The link to documentation on running a local mail server could therefore be included in the "See also" section.
 
 ## Additional resources
 
-Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/)
+- Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/)
 
-[Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
+-  [Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
