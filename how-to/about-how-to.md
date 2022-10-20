@@ -14,8 +14,7 @@ How-tos are often confused with [tutorials](https://github.com/thegooddocsprojec
 
 | Tutorials                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Learning oriented                                                                                                                               | Task oriented                                                                                            |
-| Helps beginners or expert users learn a new feature, in a practical way.                                                                        | Helps an expert user accomplish a task or troubleshoot an issue.                                         |
+| Learning oriented: Helps beginners or expert users learn a new feature, in a practical way.                                                                                                                               | Task oriented: Helps an expert user accomplish a task or troubleshoot an issue.                                                                                            |                                                                       |                                          |
 | Follows a carefully managed path, from the start to the end.                                                                                    | Aims for a successful result, and guides the user along the safest, surest way to the goal.              |
 | Eliminates any unexpected scenarios and provides users with a successful finish.                                                                | Alerts the user to the possibility of unexpected scenarios and provides guidance on how to deal with it. |
 | Assumes that users do not have any practical knowledge and must explicitly state any tools, file configurations, conceptual details, and so on. | Assumes that users have the practical knowledge of tools, file configurations, applications, and so on.  |
@@ -46,9 +45,10 @@ Before you start working on your how-tos, identify:
 - Prepare your users for the unexpected, alert the user to its possibility and provide guidance on how to deal with it. For example, include callouts such as a warning, caution, or note to communicate important information while completing a task.
 - Use conditional imperatives. If you want x, do y. To achieve w, do z.
 - Do not explain concepts.
-- Do not provide too many links within the guide. Keep your users on a single page as much as possible. Instead, provide links to additional resources at the bottom of the page.
-- Avoid writing how-tos for edge cases at the outer boundaries of your application’s capability.
-- Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users.
+- Sometimes it's helpful to occasionally provide links to supporting pieces of documentation for more information--especially when the user might need a link to supporting reference materials or background information. However, avoid providing too many links within the guide. Keep your users on a single page as much as possible and provide links to additional resources at the bottom of the page.
+- Avoid over-documenting multiple ways of achieving the same task. If there is more than one way to complete a given task, pick and only document the most common or recommended method of completing the task. Additional methods should be omitted or mentioned by providing a link or reference document. 
+- Avoid writing edge cases at the boundaries of your application's capability.
+- Always ensure that the steps provided in your how-to guide are technically accurate. Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users. If it's not possible to test it yourself, have a developer or subject matter expert demonstrate the step to you and record the session, if possible.
 - Re-test instructions after every notable product release to ensure instructions are still accurate and work end-to-end.
 
 ## About the "Overview" section
@@ -75,6 +75,8 @@ If there are multiple scenarios under which the how-to can be applied, you can o
 
 ## About the "Before you begin" section
 
+{This section is optional}
+
 In this section describe what your users need to know, or need to have before they attempt the how-to. By stating the requirements up-front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
 
 Use this section to communicate any prerequisites for this how-to, such as:
@@ -86,20 +88,26 @@ Use this section to communicate any prerequisites for this how-to, such as:
 - Other guides or information to read
 - Links to procedures or information, or any useful pointers about how to get what they need.
 
+For easy understanding, consider grouping prerequisites into categories such as background knowledge and software prerequisites.
+
+Optionally, provide cues that signal to a user that they’re probably wrong place and offer more suitable options. For example, If you are a Linux user, refer to {link to relevant Linux how-to guide}.
+
 Here is an example:
 
 ```markdown
-Before you begin, make sure you meet these prerequisites:
 
-- API credentials for the v3.5 API. For more information about accessing your API credentials, see http://example.com/access_your_api_credentials.
+Before you begin, ensure you have:
+
+- A conceptual understanding of RESTful APIs.
+
+Before you begin, ensure you have:
+
+- API credentials for the v3.5 API.
 - Access to the Postman application.
-- A conceptual understanding of RESTful APIs. For more information, see http://example.com/restful_apis.
 - (Optional) A development environment (IDE) that displays API responses formatted for readability.
 ```
 
-For easy understanding, consider classifying the prerequisites into different categories such as software prerequisites, and hardware prerequisites.
 
-Optionally, provide any helpful cues that signal to a user that they’re probably not in the right place and provide them with more suitable options. For example, If you are a Linux user, then refer to {link to relevant Linux how-to guide}.
 
 ## About the "Steps" section
 
@@ -126,6 +134,7 @@ Here is an example step:
 
 ```
 Create pull request
+
 Pull requests are used to inform others of changes you have pushed to a branch in a repository. Once a pull request is opened, you can collaborate with reviewers and make changes before merging into the base branch.
 
 1. To create a pull request, do the following:
@@ -161,6 +170,10 @@ It's likely that during the course of explaining a multi-task process you will t
 
 ## Additional resources
 
-- Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/)
+- Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/).
 
 -  [Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
+
+- Carey, M., Lanyi, M., Longo D., Radzinski E., Rouiller S., Wilde E. 2014. [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975/ref=sr_1_1?crid=ZJR527VZPRL6&keywords=developing+quality+technical+information&qid=1662901229&sprefix=developing+quality+t%2Caps%2C196&sr=8-1).
+
+- [Google Developer's Style Guide](https://developers.google.com/style/lists).

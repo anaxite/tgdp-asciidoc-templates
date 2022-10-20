@@ -10,6 +10,8 @@ This guide explains how to {insert a brief description of the task}.
 
 ## Before you begin
 
+{This section is optional}
+
 Before you {insert a brief description of the task}, ensure:
 
 - Prerequisite 1
