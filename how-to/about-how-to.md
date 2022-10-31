@@ -6,6 +6,8 @@
 
 The how-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
 
+**Note:** A task is an action that your users can do with your product to accomplish a goal. Multiple tasks may be involved in achieving a goal.
+
 The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
 
 Do not use how-to to teach concepts.
@@ -50,6 +52,7 @@ Before you start working on your how-tos, identify:
 - Avoid writing edge cases at the boundaries of your application's capability.
 - Always ensure that the steps provided in your how-to guide are technically accurate. Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users. If it's not possible to test it yourself, have a developer or subject matter expert demonstrate the step to you and record the session, if possible.
 - Re-test instructions after every notable product release to ensure instructions are still accurate and work end-to-end.
+- Lengthy how-tos can overwhelm users. Consider condensing and restrict to a maximum of 8-10 steps for a single task.
 
 ## About the "Overview" section
 
@@ -156,7 +159,7 @@ If you're including code samples in your steps, make sure they are also indented
 
 ### Tips for writing steps
 
-- For task names, start with a bare infinitive also known as plain form or base form verbs. For example, “connect”, “set up”, or “build” and express the heading as a complete thought. Don't use the -ing form of the verb because it is harder to translate. Instead of saying, "Connect", you might say, "Connect to the VM instance”.
+- For task names, start with a [bare infinitive](https://en.wikipedia.org/wiki/Infinitive#English) also known as plain form or [base form](https://en.wikipedia.org/wiki/English_verbs#Base_form) verbs. For example, “connect”, “set up”, or “build” and express the heading as a complete thought. Don't use the -ing form of the verb because it is harder to translate. Instead of saying, "Connect", you might say, "Connect to the VM instance”.
 - For each step, optionally provide some background information about the task so users know what they're about to do and why. Continuing with the example, you might provide some best practices for creating memorable repository names.
 - Optionally, add a [code sample](https://developers.google.com/style/code-samples) or [screenshot](https://developers.google.com/style/images) after the explanatory text, depending on the type of how-to you're writing. Screenshots are a great way to show specific parts of the screen you are referring to in a step. Make sure your code samples work and are always up-to-date.
 - Remember to orient your users when walking them through each step. If they need to open a particular file or dialog box to complete the task, provide that information first.
