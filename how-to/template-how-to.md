@@ -39,13 +39,10 @@ Before you {insert a brief description of the task}, ensure:
 
     2.2 {Substep 2}
 
-## {Task name 2}
-
+### {Sub-task}
 ...
+{This section is optional. Include a sub-task only if the task is big and complex.}
 
-## {Task name n}
-
-...
 
 ## See also
 

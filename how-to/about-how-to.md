@@ -52,7 +52,7 @@ Before you start working on your how-tos, identify:
 - Avoid writing edge cases at the boundaries of your application's capability.
 - Always ensure that the steps provided in your how-to guide are technically accurate. Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users. If it's not possible to test it yourself, have a developer or subject matter expert demonstrate the step to you and record the session, if possible.
 - Re-test instructions after every notable product release to ensure instructions are still accurate and work end-to-end.
-- Lengthy how-tos can overwhelm users. Consider condensing and restrict to a maximum of 8-10 steps for a single task.
+- Lengthy how-tos can overwhelm users. Focus only on one task in your how-to and restrict to a maximum of 8-10 steps per task. If the task is too big and complex, you may break down the task into multiple logical sub-tasks with its own steps.
 
 ## About the "Overview" section
 
@@ -142,9 +142,9 @@ Pull requests are used to inform others of changes you have pushed to a branch i
 
 1. To create a pull request, do the following:
 
-   a. Navigate to the main page of your repository.
+   1.1. Navigate to the main page of your repository.
 
-   b. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
+   1.2. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
 ```
 
 If you're including code samples in your steps, make sure they are also indented correctly:
@@ -166,6 +166,8 @@ If you're including code samples in your steps, make sure they are also indented
 - Provide examples of sample output such as return data, and a message so that the users can validate whether they performed the step correctly or not. Continuing with the example, you might describe what happens after a user clicks the "Create repository" button.
 - Use plain language and define the terminology of any technical term next to it.
 - Include one action in a step.
+
+For additional tips on writing steps, see [Writing Procedural Steps](../writing-tips.md#writing-procedural-steps) from The Good Docs Project.
 
 ## About the "See also" section
 
