@@ -4,11 +4,7 @@ This document explains the different documentation deliverables that template au
 
 ## Table of contents
 
-- [Overview](#overview)
-- [Template file](#template-file)
-- [Template guide](#template-guide)
-- [Deep dive (optional)](#deep-dive-optional)
-- [Template example (optional)](#template-example-optional)
+[TOC]
 
 
 ## Overview
@@ -38,8 +34,8 @@ Each template set should have the following components:
   </tr>
   <tr>
     <td>Template example</td>
-    <td>The Good Docs Project is in the process of designing a fake documentation project that can provide examples of our templates in action. Until this project is ready, it is optional to provide an example of the template. However, if you want to create a fake example as part of your template set, you may do so.</td>
-    <td>Optional</td>
+    <td>After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions.</td>
+    <td>Required, but occurs after the template writing process</td>
   </tr>
 </table>
 
@@ -150,7 +146,4 @@ A: Create a new issue for that template in the templates repository and indicate
 
 Example filename: abc-template-example.md
 
-The Good Docs Project is in the process of designing a fake documentation project that can provide examples of our templates in action. Until this project is ready, it is optional to provide an example of the template.
-However, if you want to create a fake example as part of your template set, you may do so.
-
-If you choose not to create a template example, open an issue indicating that this template still needs an example.
+After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions.
