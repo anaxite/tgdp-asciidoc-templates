@@ -1,32 +1,25 @@
-# Template quality checklist
+# Merge request summary
 
-This quality checklist will eventually become a pull request template that every contributor needs to add to pull requests against the `templates` repository.
+{Describe the purpose of your merge request.}
+
+{Also indicate which template working group you belong to and who your template working group lead is.}
+
+IMPORTANT: The next three sections in this checklist should be filled out by the template contributor at the time they submit this request. Merge requests can only be merged when all boxes are checked.
 
 
-# Pull request summary
+### Which issue does this merge request fix or reference?
 
-{Describe the purpose of your pull request.}
+This merge  request:
 
-{Also indicate which template working group you belong to and who your template mentor is.}
+- Resolves: {Choose this option if this MR will close the issue and link to issue}
+- Relates to: {Choose this option if this MR only references an issue for context but does not fully resolve it}
 
-## Template contributor checklist
-
-IMPORTANT: The next three sections in this checklist should be filled out by the template contributor at the time they submit this request.
-
-NOTE: Pull requests can only be merged when all boxes are checked.
-
-### Which issue does this pull request fix or reference?
-
-This pull request:
-
-- Resolves: {Choose this option if this PR will close the issue and link to issue}
-- Relates to: {Choose this option if this PR only references an issue for context but does not fully resolve it}
 
 ### Procedural requirements
 
 - [ ] The template contributor participated in a template working group to create this template.
 - [ ] This template was submitted to the community for feedback.
-- [ ] A template mentor approved this template set to move to the pull request phase.
+- [ ] A template working group lead approved this template set to move to the merge request phase.
 
 
 ### Template set requirements
@@ -34,25 +27,23 @@ This pull request:
 - [ ] Template file is present.
 - [ ] Template guide is present.
 - [ ] Template deep dive is present (optional).
-- [ ] Template example is present (optional).
-- [ ] If the optional template example is not present, open a new issue to track this task in the [Chronologue repository](https://github.com/thegooddocsproject/chronologue/issues), then include the link here.
 
 
 ## Template pull request reviewer checklist
 
-IMPORTANT: The rest of the sections in this checklist should only be filled out by authorized Good Docs Project pull request reviewers. If you are the individual template contributor, do not fill out the rest of the fields or check the boxes.
+IMPORTANT: The rest of the sections in this checklist should only be filled out by authorized Good Docs Project merge request reviewers. If you are the individual template contributor, do not fill out the rest of the fields or check the boxes.
 
-NOTE: Pull requests can only be merged when all boxes are checked.
+NOTE: Merge requests can only be merged when all boxes are checked.
 
 
-### Mechanics and formatting requirements - PULL REQUEST REVIEWER ONLY
+### Mechanics and formatting requirements - MERGE REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly.
 - [ ] Review the template set to ensure all documents follow the template markdown style guide.
 - [ ] The template set is free from grammar errors and typos.
 
 
-### Overall usability - PULL REQUEST REVIEWER ONLY
+### Overall usability - MERGE REQUEST REVIEWER ONLY
 
 - [ ] The scope of the template set is appropriate, meaning it is not too simple or overly complex (i.e. it needs to be expanded or broken into multiple smaller templates).
 - [ ] The template is complete and comprehensive.
@@ -61,7 +52,7 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 - [ ] The template set provides sufficient guidance about how to fill it in and implement the template in a documentation project.
 
 
-### Template file requirements - PULL REQUEST REVIEWER ONLY
+### Template file requirements - MERGE REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
 - [ ] The template title is present and is an H1.
@@ -74,7 +65,7 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 - [ ] The template is well-written and clear.
 
 
-### Template guide requirements - PULL REQUEST REVIEWER ONLY
+### Template guide requirements - MERGE REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
 - [ ] The template guide title is present and is an H1.
@@ -90,16 +81,10 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 - [ ] The template guide is well-written, clear, and provides sound advice to template users.
 
 
-### Deep dive requirements (optional) - PULL REQUEST REVIEWER ONLY
+### Deep dive requirements (optional) - MERGE REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
 - [ ] The deep drive title is present and is an H1.
 - [ ] The deep dive guide provides helpful advice about necessary requirements for writing this type of documentation.
 - [ ] The template set is well-organized and the contents flow in a logical order.
 - [ ] The template is well-written and clear.
-
-
-### Template example requirements (optional) - PULL REQUEST REVIEWER ONLY
-
-- [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
-- [ ] The template example provided is well-written and provides a clear example of how to use the template.
