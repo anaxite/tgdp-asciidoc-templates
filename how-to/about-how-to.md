@@ -65,9 +65,8 @@ The how-to assumes that a user has basic knowledge of the application and knows 
 
 Here are some examples:
 
-- This guide explains how to comment on a pull request.
-- This guide explains how to create or delete a branch on GitHub.
-- This guide explains how to create a repository.
+- This guide explains how to create an issue on GitHub. You can create issues to track ideas, feedback, tasks or bugs for work on GitHub.
+- This guide explains how to resolve merge conflict using command-line. Merge conflicts occur when competing changes are made to the same line of a file.
 
 If there are multiple scenarios under which the how-to can be applied, you can orient the reader with a table linking guides to scenarios, as per below.
 
