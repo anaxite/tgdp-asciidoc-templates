@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The how-to takes your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
+The how-to take your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
 
 **Note:** A task is an action that your users can do with your product to accomplish a goal. Multiple tasks may be involved in achieving a goal.
 
@@ -16,10 +16,10 @@ How-tos are often confused with [tutorials](https://github.com/thegooddocsprojec
 
 | Tutorials                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Learning oriented: Helps beginners or expert users learn a new feature, in a practical way.                                                                                                                               | Task oriented: Helps an expert user accomplish a task or troubleshoot an issue.                                                                                            |                                                                       |                                          |
+| Learning-oriented: Helps beginners or expert users learn a new feature, in a hands-on way.                                                                                                                               | Task-oriented: Helps an expert user accomplish a task or troubleshoot an issue.                                                                                            |                                                                       |                                          |
 | Follows a carefully managed path, from the start to the end.                                                                                    | Aims for a successful result, and guides the user along the safest, surest way to the goal.              |
-| Eliminates any unexpected scenarios and provides users with a successful finish.                                                                | Alerts the user to the possibility of unexpected scenarios and provides guidance on how to deal with it. |
-| Assumes that users do not have any practical knowledge and must explicitly state any tools, file configurations, conceptual details, and so on. | Assumes that users have the practical knowledge of tools, file configurations, applications, and so on.  |
+| Eliminates any unexpected scenarios and provides users with a successful finish.                                                                | Alerts the user to the possibility of unexpected scenarios and guides how to deal with them. |
+| Assumes that users do not have any practical knowledge and must explicitly state any tools, file configurations, conceptual details, and so on. | Assumes that users have practical knowledge of tools, file configurations, applications, and so on.  |
 
 ## Why do I need a how-to?
 
@@ -39,7 +39,7 @@ Before you start working on your how-tos, identify:
 
 - The main use cases for your application.
 - The different scenarios that your user may encounter in the real world while completing a task. If this, then that. In the case of …, an alternative approach is to…
-- The surest and the safest way to complete a task. By suggesting multiple ways to complete a task, you're asking users to think through the different ways and choose. Save your users' time and effort by eliminating the options.
+- The surest and safest way to complete a task. By suggesting multiple ways to complete a task, you're asking users to think through the different ways and choose. Save your users' time and effort by eliminating the options.
 - The different error scenarios that a user may encounter while completing a task, and their corresponding solutions.
 
 ## Best practices for writing a how-to
@@ -52,7 +52,7 @@ Before you start working on your how-tos, identify:
 - Avoid writing edge cases at the boundaries of your application's capability.
 - Always ensure that the steps provided in your how-to guide are technically accurate. Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users. If it's not possible to test it yourself, have a developer or subject matter expert demonstrate the step to you and record the session, if possible.
 - Re-test instructions after every notable product release to ensure instructions are still accurate and work end-to-end.
-- Lengthy how-tos can overwhelm users. Focus only on one task in your how-to and restrict to a maximum of 8-10 steps per task. If the task is too big and complex, you may break down the task into multiple logical sub-tasks with its own steps.
+- Lengthy how-tos can overwhelm users. Focus only on one task in your how-to and restrict to a maximum of 8-10 steps per task. If the task is too big and complex, you may break down the task into multiple logical sub-tasks with their own steps.
 
 ## About the "Overview" section
 
@@ -60,13 +60,11 @@ Use this section to provide the following:
 
 - A clear description of the problem or task that the user can solve or complete.
 - When and why your user might want to perform the task. For example, in a guide for creating a pull request, you might tell users that pull requests are used to let others know about the changes you have pushed to a branch on a repository.
-
 The how-to assumes that a user has basic knowledge of the application and knows what they want to achieve.
 
 Here are some examples:
-
-- This guide explains how to create an issue on GitHub. You can create issues to track ideas, feedback, tasks or bugs for work on GitHub.
-- This guide explains how to resolve merge conflict using command-line. Merge conflicts occur when competing changes are made to the same line of a file.
+- This guide explains how to create an issue on GitHub. You can create issues to track ideas, feedback, tasks, or bugs for work on GitHub.
+- This guide explains how to resolve merge conflict using the command line. Merge conflicts occur when competing changes are made to the same line of a file.
 
 If there are multiple scenarios under which the how-to can be applied, you can orient the reader with a table linking guides to scenarios, as per below.
 
@@ -79,7 +77,7 @@ If there are multiple scenarios under which the how-to can be applied, you can o
 
 {This section is optional}
 
-In this section describe what your users need to know, or need to have before they attempt the how-to. By stating the requirements up-front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
+This section describes what your users need to know, or need to have before they attempt the how-to. By stating the requirements up-front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
 
 Use this section to communicate any prerequisites for this how-to, such as:
 
@@ -92,7 +90,7 @@ Use this section to communicate any prerequisites for this how-to, such as:
 
 For easy understanding, consider grouping prerequisites into categories such as background knowledge and software prerequisites.
 
-Optionally, provide cues that signal to a user that they’re probably wrong place and offer more suitable options. For example, If you are a Linux user, refer to {link to relevant Linux how-to guide}.
+Optionally, provide cues that signal to a user that they’re probably in the wrong place and offer more suitable options. For example, If you are a Linux user, refer to {link to relevant Linux how-to guide}.
 
 Here is an example:
 
@@ -110,7 +108,6 @@ Before you begin, ensure you have:
 ```
 
 
-
 ## About the "Steps" section
 
 The steps section is where you describe what the user needs to do. Use an ordered list structure to document the how-to steps. How you write your steps will vary depending on your organization's style guide. The template organizes the steps in the following way:
@@ -118,7 +115,7 @@ The steps section is where you describe what the user needs to do. Use an ordere
 ```
 {Task name}
 
-{Optional: Provide concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
+{Optional: Provide a concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
 1. {Write the action to take here. Start with a verb.}
 
@@ -127,7 +124,6 @@ The steps section is where you describe what the user needs to do. Use an ordere
    {Optional: Code sample or screenshot that helps your users complete this step}
 
    {Optional: Result}
-
 
 {Optional: If needed, you can add substeps below a primary step. Make sure to indent the substep one tab space over if you're using Markdown.}
 ```
@@ -170,14 +166,13 @@ For additional tips on writing steps, see [Writing Procedural Steps](../writing-
 
 ## About the "See also" section
 
-It's likely that during the course of explaining a multi-task process you will touch on other topics related to the current one, but not strictly required. This section is useful to provide your users with suggestions on further reading without interrupting the topic covered by the current document. An example might be setting up an email client, which requires working credentials to an active email address. The reader need not know how to install and run his/her own email server in order to acquire that access, although this is potentially useful. The link to documentation on running a local mail server could therefore be included in the "See also" section.
+It's likely that during explaining a multi-task process you will touch on other topics related to the current one, but not strictly required. This section is useful to provide your users with suggestions on further reading without interrupting the topic covered by the current document. An example might be setting up an email client, which requires working credentials for an active email address. The reader need not know how to install and run his/her email server to acquire that access, although this is potentially useful. The link to documentation on running a local mail server could therefore be included in the "See also" section.
 
 ## Additional resources
 
 - Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/).
-
 -  [Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
-
 - Carey, M., Lanyi, M., Longo D., Radzinski E., Rouiller S., Wilde E. 2014. [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975/ref=sr_1_1?crid=ZJR527VZPRL6&keywords=developing+quality+technical+information&qid=1662901229&sprefix=developing+quality+t%2Caps%2C196&sr=8-1).
-
 - [Google Developer's Style Guide](https://developers.google.com/style/lists).
+
+
