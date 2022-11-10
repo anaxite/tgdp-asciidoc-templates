@@ -19,7 +19,7 @@ Before you {insert a brief description of the task}, ensure:
 - Prerequisite 3
 
 
-## {Task name 1}
+## {Task name }
 
 {Optional: Provide a concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
