@@ -21,7 +21,7 @@ Before you {insert a brief description of the task}, ensure:
 
 ## {Task name 1}
 
-{Optional: Provide concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
+{Optional: Provide a concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
 {You can use this format to describe your steps:}
 
