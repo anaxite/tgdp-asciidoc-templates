@@ -44,6 +44,7 @@ Before you start working on your how-tos, identify:
 
 ## Best practices for writing a how-to
 
+- Address one logical goal (task) per how-to page. Try to avoid cases where only a subsection of the how-to is relevant to the user.
 - Prepare your users for the unexpected, alert the user to its possibility and provide guidance on how to deal with it. For example, include callouts such as a warning, caution, or note to communicate important information while completing a task.
 - Use conditional imperatives. If you want x, do y. To achieve w, do z.
 - Do not explain concepts.
