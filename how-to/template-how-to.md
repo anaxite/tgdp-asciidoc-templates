@@ -41,6 +41,7 @@ Before you {insert a brief description of the task}, ensure:
 
 ### {Sub-task}
 ...
+
 {This section is optional. Include a sub-task only if the task is big and complex.}
 
 

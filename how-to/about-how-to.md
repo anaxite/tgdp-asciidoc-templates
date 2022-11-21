@@ -12,7 +12,7 @@ The how-to clearly describes a set of sequential steps your users must complete 
 
 Do not use how-to to teach concepts.
 
-How-tos are often confused with [tutorials](https://github.com/thegooddocsproject/templates/tree/dev/tutorial). How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
+How-tos are often confused with [tutorials](https://gitlab.com/tgdp/templates/-/tree/main/tutorial). How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
 
 | Tutorials                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
