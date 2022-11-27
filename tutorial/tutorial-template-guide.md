@@ -12,6 +12,17 @@ Tutorials are integral to helping your users become acquainted with your product
 Tutorials are often confused with how-to guides because they do help users achieve a specific goal. However, how-to guides assume that your users have some experience with your product or are familiar with certain concepts. They also are usually focused on helping users complete a specific task, like how to add an email account to Microsoft Outlook. 
 
 In comparison, tutorials give your users hands-on experience with your product so that they can understand key concepts about your product in a more practical context. Hands-on learning often helps learners gain a deeper understanding of the product by helping them see how they can use a tool to accomplish a task they care about. 
+The table below identifies the differences between the two.
+
+| Tutorials                                                                                                                                       | How-to                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Learning oriented                                                                                                                               | Task oriented                                                                                            |
+| Helps beginners or expert users learn a new feature, in a practical way.                                                                        | Helps an expert user accomplish a task or troubleshoot an issue.                                         |
+| Follows a carefully managed path, from the start to the end.                                                                                    | Aims for a successful result, and guides the user along the safest, surest way to the goal.              |
+| Eliminates any unexpected scenarios and provides users with a successful finish.                                                                | Alerts the user to the possibility of unexpected scenarios and provides guidance on how to deal with it. |
+| Assumes that users do not have any practical knowledge and must explicitly state any tools, file configurations, conceptual details, and so on. | Assumes that users have the practical knowledge of tools, file configurations, applications, and so on.  |
+
+
 
 ## Helpful tips when writing your tutorial 
 
