@@ -27,17 +27,17 @@ Before you {insert a brief description of the task}, ensure:
 
 1. {Write the step here. Use a verb to start.}
 
-{Optional: Explanatory text}
+    {Optional: Explanatory text}
 
-{Optional: Code sample or screenshot that helps your users complete this step.}
+    {Optional: Code sample or screenshot that helps your users complete this step.}
 
-{Optional: The result of completing this step.}
+    {Optional: The result of completing this step.}
 
-2.  {Write the step here. Use a verb to start.}
+2. {Write the step here. Use a verb to start.}
 
-    2.1 {Substep 1}
+    a. {Substep 1}
 
-    2.2 {Substep 2}
+    b. {Substep 2}
 
 ### {Sub-task}
 ...

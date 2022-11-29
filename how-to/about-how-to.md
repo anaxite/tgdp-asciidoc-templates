@@ -4,20 +4,20 @@
 
 ## Introduction
 
-The how-to take your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, like how to create an issue in GitHub.
+The how-to take your users through a series of steps required to solve a specific problem. It shows your users how to solve a real-world problem or complete a task in your application, such as how to create an issue in GitHub.
 
 **Note:** A task is an action that your users can do with your product to accomplish a goal. Multiple tasks may be involved in achieving a goal.
 
 The how-to clearly describes a set of sequential steps your users must complete to accomplish a task. The how-to assumes that a user has basic knowledge of the application and has already read the quickstart and the tutorial.
 
-Do not use how-to to teach concepts.
+Do not use a how-to to teach concepts.
 
 How-tos are often confused with [tutorials](https://gitlab.com/tgdp/templates/-/tree/main/tutorial). How-tos are task-oriented, while tutorials are learning-oriented. The table below identifies the differences between the two.
 
-| Tutorials                                                                                                                                       | How-to                                                                                                   |
+| Tutorial                                                                                                                                       | How-to                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Learning-oriented: Helps beginners or expert users learn a new feature, in a hands-on way.                                                                                                                               | Task-oriented: Helps an expert user accomplish a task or troubleshoot an issue.                                                                                            |                                                                       |                                          |
-| Follows a carefully managed path, from the start to the end.                                                                                    | Aims for a successful result, and guides the user along the safest, surest way to the goal.              |
+| Learning-oriented: Helps beginners or expert users learn a new feature in a hands-on way.                                                                                                                               | Task-oriented: Helps an expert user accomplish a task or troubleshoot an issue.                                                                                            |                                                                       |                                          |
+| Follows a carefully managed part from the start to the end.                                                                                    | Aims for a successful result and guides the user along the safest, surest way to the goal.              |
 | Eliminates any unexpected scenarios and provides users with a successful finish.                                                                | Alerts the user to the possibility of unexpected scenarios and guides how to deal with them. |
 | Assumes that users do not have any practical knowledge and must explicitly state any tools, file configurations, conceptual details, and so on. | Assumes that users have practical knowledge of tools, file configurations, applications, and so on.  |
 
@@ -48,7 +48,7 @@ Before you start working on your how-tos, identify:
 - Prepare your users for the unexpected, alert the user to its possibility and provide guidance on how to deal with it. For example, include callouts such as a warning, caution, or note to communicate important information while completing a task.
 - Use conditional imperatives. If you want x, do y. To achieve w, do z.
 - Do not explain concepts.
-- Sometimes it's helpful to occasionally provide links to supporting pieces of documentation for more information--especially when the user might need a link to supporting reference materials or background information. However, avoid providing too many links within the guide. Keep your users on a single page as much as possible and provide links to additional resources at the bottom of the page.
+- Sometimes it's helpful to occasionally provide links to supporting pieces of documentation for more information.Especially, when the user might need a link to supporting background or [conceptual](https://gitlab.com/tgdp/templates/-/tree/main/explanation) information and/or [reference](https://gitlab.com/tgdp/templates/-/tree/main/reference) materials. However, avoid providing too many links within the guide. Keep your users on a single page as much as possible and provide links to additional resources at the bottom of the page.
 - Avoid over-documenting multiple ways of achieving the same task. If there is more than one way to complete a given task, pick and only document the most common or recommended method of completing the task. Additional methods should be omitted or mentioned by providing a link or reference document. 
 - Avoid writing edge cases at the boundaries of your application's capability.
 - Always ensure that the steps provided in your how-to guide are technically accurate. Test your how-to instructions from start to finish so that you can uncover omitted steps, incorrect details, steps out of order, and information gaps that block users. If it's not possible to test it yourself, have a developer or subject matter expert demonstrate the step to you and record the session, if possible.
@@ -78,7 +78,7 @@ If there are multiple scenarios under which the how-to can be applied, you can o
 
 {This section is optional}
 
-This section describes what your users need to know, or need to have before they attempt the how-to. By stating the requirements up-front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
+This section describes what your users need to know, or need to have before they attempt the how-to. By stating the requirements up front, you prevent your users from getting halfway through and discovering that they need to go and read other documentation before they can continue.
 
 Use this section to communicate any prerequisites for this how-to, such as:
 
@@ -96,7 +96,6 @@ Optionally, provide cues that signal to a user that they’re probably in the wr
 Here is an example:
 
 ```markdown
-
 Before you begin, ensure you have:
 
 - A conceptual understanding of RESTful APIs.
@@ -138,9 +137,9 @@ Pull requests are used to inform others of changes you have pushed to a branch i
 
 1. To create a pull request, do the following:
 
-   1.1. Navigate to the main page of your repository.
+   a. Navigate to the main page of your repository.
 
-   1.2. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
+   b. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
 ```
 
 If you're including code samples in your steps, make sure they are also indented correctly:
@@ -159,7 +158,7 @@ If you're including code samples in your steps, make sure they are also indented
 - For each step, optionally provide some background information about the task so users know what they're about to do and why. Continuing with the example, you might provide some best practices for creating memorable repository names.
 - Optionally, add a [code sample](https://developers.google.com/style/code-samples) or [screenshot](https://developers.google.com/style/images) after the explanatory text, depending on the type of how-to you're writing. Screenshots are a great way to show specific parts of the screen you are referring to in a step. Make sure your code samples work and are always up-to-date.
 - Remember to orient your users when walking them through each step. If they need to open a particular file or dialog box to complete the task, provide that information first.
-- Provide examples of sample output such as return data, and a message so that the users can validate whether they performed the step correctly or not. Continuing with the example, you might describe what happens after a user clicks the "Create repository" button.
+- Provide examples of sample output such as return data or a message so that the users can validate whether they performed the step correctly or not. For example, you might want to provide what a valid and expected result looks like on entering a command into a CLI.
 - Use plain language and define the terminology of any technical term next to it.
 - Include one action in a step.
 
@@ -171,9 +170,9 @@ It's likely that during explaining a multi-task process you will touch on other 
 
 ## Additional resources
 
-- Bhatti, J., Corleissen, Z.S., Lambourne, J., Nunez, D. And Waterhouse, H. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/).
+- Bhatti, J., et.al. 2021. [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition](https://docsfordevelopers.com/).
 -  [Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
-- Carey, M., Lanyi, M., Longo D., Radzinski E., Rouiller S., Wilde E. 2014. [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975/ref=sr_1_1?crid=ZJR527VZPRL6&keywords=developing+quality+technical+information&qid=1662901229&sprefix=developing+quality+t%2Caps%2C196&sr=8-1).
+- Carey, M., et.al. 2014. [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975/ref=sr_1_1?crid=ZJR527VZPRL6&keywords=developing+quality+technical+information&qid=1662901229&sprefix=developing+quality+t%2Caps%2C196&sr=8-1).
 - [Google Developer's Style Guide](https://developers.google.com/style/lists).
 
 
