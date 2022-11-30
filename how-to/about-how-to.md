@@ -61,6 +61,7 @@ Use this section to provide the following:
 
 - A clear description of the problem or task that the user can solve or complete.
 - When and why your user might want to perform the task. For example, in a guide for creating a pull request, you might tell users that pull requests are used to let others know about the changes you have pushed to a branch on a repository.
+
 The how-to assumes that a user has basic knowledge of the application and knows what they want to achieve.
 
 Here are some examples:
