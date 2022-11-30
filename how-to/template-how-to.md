@@ -47,7 +47,7 @@ Before you {insert a brief description of the task}, ensure:
 
 ## See also
 
-{Include references and/or links to other related documentation such as how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
+{Include references and/or links to other related documentation such as other how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
 
 - Reference link
 - Concept link
