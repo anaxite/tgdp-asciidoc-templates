@@ -35,9 +35,9 @@ Before you {insert a brief description of the task}, ensure:
 
 2. {Write the step here. Use a verb to start.}
 
-    a. {Substep 1}
+    2.1. {Substep 1}
 
-    b. {Substep 2}
+    2.2. {Substep 2}
 
 ### {Sub-task}
 ...

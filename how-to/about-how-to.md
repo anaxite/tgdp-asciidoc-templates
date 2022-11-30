@@ -31,7 +31,7 @@ A how-to is often used to help advanced users perform a task correctly. It can:
 - Make users comfortable using the application.
 - Improve the user experience, and help reduce costs by lowering the number of support requests.
 
-New users can also benefit, provided the how-to is well-written and states any prerequisite knowledge required to complete the task.
+New users can also benefit from a how-to, provided the how-to is well-written and states any prerequisite knowledge required to complete the task.
 
 ## Before writing a how-to
 
@@ -67,13 +67,6 @@ Here are some examples:
 - This guide explains how to create an issue on GitHub. You can create issues to track ideas, feedback, tasks, or bugs for work on GitHub.
 - This guide explains how to resolve merge conflict using the command line. Merge conflicts occur when competing changes are made to the same line of a file.
 
-If there are multiple scenarios under which the how-to can be applied, you can orient the reader with a table linking guides to scenarios, as per below.
-
-| Guide                             | Scenario                                             |
-| --------------------------------- | ---------------------------------------------------- |
-| Create a pull request from a fork | The user does not have write permission to the repo. |
-| Create a pull request             | The user has write permission to the repo.           |
-
 ## About the "Before you begin" section
 
 {This section is optional}
@@ -107,7 +100,6 @@ Before you begin, ensure you have:
 - (Optional) A development environment (IDE) that displays API responses formatted for readability.
 ```
 
-
 ## About the "Steps" section
 
 The steps section is where you describe what the user needs to do. Use an ordered list structure to document the how-to steps. How you write your steps will vary depending on your organization's style guide. The template organizes the steps in the following way:
@@ -137,9 +129,9 @@ Pull requests are used to inform others of changes you have pushed to a branch i
 
 1. To create a pull request, do the following:
 
-   a. Navigate to the main page of your repository.
+   1.1. Navigate to the main page of your repository.
 
-   b. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
+   1.2. Under your repository name, click **Pull requests**. By default, all open pull requests are displayed.
 ```
 
 If you're including code samples in your steps, make sure they are also indented correctly:
@@ -174,5 +166,3 @@ It's likely that during explaining a multi-task process you will touch on other 
 -  [Diátaxis](https://diataxis.fr/). 2017. A systematic framework for technical documentation authoring.
 - Carey, M., et.al. 2014. [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975/ref=sr_1_1?crid=ZJR527VZPRL6&keywords=developing+quality+technical+information&qid=1662901229&sprefix=developing+quality+t%2Caps%2C196&sr=8-1).
 - [Google Developer's Style Guide](https://developers.google.com/style/lists).
-
-
