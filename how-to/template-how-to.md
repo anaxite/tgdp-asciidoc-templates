@@ -18,7 +18,6 @@ Before you {insert a brief description of the task}, ensure:
 - Prerequisite 2
 - Prerequisite 3
 
-
 ## {Task name }
 
 {Optional: Provide a concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
@@ -44,7 +43,6 @@ Before you {insert a brief description of the task}, ensure:
 
 {This section is optional. Include a sub-task only if the task is big and complex.}
 
-
 ## See also
 
 {Include references and/or links to other related documentation such as other how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
@@ -52,4 +50,3 @@ Before you {insert a brief description of the task}, ensure:
 - Reference link
 - Concept link
 - Troubleshooting link}
-
