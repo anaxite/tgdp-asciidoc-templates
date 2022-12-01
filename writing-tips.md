@@ -24,6 +24,12 @@ Here are some recommendations you can use when creating procedural steps:
 * If you are indenting sub-steps beyond one indent level, break out your steps into a new main step block.
 * Too many sub-steps could suggest that you need to break out some of these steps into a new step section.
 * Screenshots and images are recommended, particularly if you can include call outs to the specific parts of the screen you are referring to.
+* Identify steps that are optional by using typing _Optional_ followed by a colon. For example, 
+    * Optional: Enter a description for your repository.
+* Use conditional clause _if (condition) then (result)_  to identify steps that are applicable only if certain criteria apply. Always start the conditional steps with a condition so that users who do not meet the condition can skip the step. For example, 
+    * If you are a Windows user, then install the VM VirtualBox software on your machine. 
+
+For more information on writing procedures, see [Google developer documentation style guide.](https://developers.google.com/style/procedures)
 
 ## Page structure
 

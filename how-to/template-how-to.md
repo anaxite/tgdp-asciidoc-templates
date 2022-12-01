@@ -1,62 +1,52 @@
-<!-- Copy this Template. -->
-<!-- Describe the title of your article by replacing "How To Template" with the page name you want to publish to. -->
-# How To template
+# Title
+
+ {Before using this template, read the accompanying [how-to template guide](how-to-template-guide.md)}
 
 ## Overview
 
-Summarize what this How To article is about in a sentence or two.
-How To articles primarily include tasks, and answer the question "how do I do it?".
+This guide explains how to {insert a brief description of the task}.
 
-**Keywords:** Optional: add comma-separated keywords.
+{Optional: Specify when and why your user might want to perform the task.}
 
-## Before you start
-<!-- Delete this section if your readers can go to the steps without requiring any prerequisite knowledge. -->
-Before you begin, make sure you meet these prerequisites:
+## Before you begin
 
-* Pre-requisite one
-* Pre-requisite two
+{This section is optional}
 
-Include other important information here, such as known issues or bugs.
+Before you {insert a brief description of the task}, ensure:
 
-## Step-by-step guide
+- Prerequisite 1
+- Prerequisite 2
+- Prerequisite 3
 
-### Step 1: Optional: Title for step - image or screenshot
+## {Task name }
 
-<!-- When an image, such as a screenshot, is quicker to interpret than descriptive text, put the screenshot first, otherwise lead with the text. -->
+{Optional: Provide a concise description of the purpose of this task. Only include this if the purpose is not clear from the task title.}
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg "Image title that describes image.")
+{You can use this format to describe your steps:}
 
-Brief instructions explaining how to interpret the image.
+1. {Write the step here. Use a verb to start.}
 
-### Step 2: Optional: title for step - ordered list
+    {Optional: Explanatory text}
 
-Lead-in sentence for an ordered list:
+    {Optional: Code sample or screenshot that helps your users complete this step.}
 
-1. Sub-step A
-1. Sub-step B
-1. Sub-step C
+    {Optional: The result of completing this step.}
 
-### Step 3: Optional: title for step - code snippet
+2. {Write the step here. Use a verb to start.}
 
-Lead-in sentence explaining the code snippet. For example:
+    2.1. {Substep 1}
 
-Run the `apt` command to install the Asciidoctor package and check the version.
+    2.2. {Substep 2}
 
-```bash
-$ sudo apt install asciidoctor
+### {Sub-task}
+...
 
-$ asciidoctor --version
-Asciidoctor 1.5.6.2 [https://asciidoctor.org]
-```
-
-### Step 4: Optional: title for step - Conclusion
-
-Provide a summary of the steps completed and explain what the user has achieved by following them. You can also include links to related articles that may help the reader reinforce concepts discussed in this How To article.
+{This section is optional. Include a sub-task only if the task is big and complex.}
 
 ## See also
 
-Include references and/or links to other related documentation, either internal to the project or external.
-After a leading sentence on why/how they are valuable to readers of the current topic, multiple related can be displayed in a list:
+{Include references and/or links to other related documentation such as other how-to guides, conceptual topics, troubleshooting information, and limitation details if any.
 
-* One list for a small number of items, which can contain internal and external references, or;
-* Two lists, divided into internal and external and separated by another leading sentence, if there are a larger number of items.
+- Reference link
+- Concept link
+- Troubleshooting link}
