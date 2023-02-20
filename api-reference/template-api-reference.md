@@ -1,4 +1,4 @@
-# API Reference
+# API Reference template
 
 {Before using this template, read [the accompanying guide](api-reference-guide.md) to this template}.
 
