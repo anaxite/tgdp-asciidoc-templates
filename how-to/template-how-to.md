@@ -8,7 +8,7 @@ This guide explains how to {insert a brief description of the task}.
 
 {Optional: Specify when and why your user might want to perform the task.}
 
-## Before you begin
+## Before you start
 
 {This section is optional}
 
