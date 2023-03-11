@@ -27,7 +27,7 @@ Do not include content that belongs in the reference section, including authenti
 
 Do not include content that belongs in the overview, including a general description of the product, or what the product can or can't do.
 
-### Post-requisites
+### Next steps
 
 * What comes next?
 

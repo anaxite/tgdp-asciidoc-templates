@@ -73,7 +73,7 @@ project's documentation.
 Use this section to indicate who should use this style guide. Describe your
 audience for the style guide, which includes all the people who write your
 documentation. You will know them best. They typically will include software
-engineers, product mangers, and tech writers, etc. You can also indicate the
+engineers, product mangers, and tech writers. You can also indicate the
 scope of the style guide if it should include more than just your project's
 documentation.
 

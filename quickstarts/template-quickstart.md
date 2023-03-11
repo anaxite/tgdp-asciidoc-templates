@@ -20,7 +20,7 @@ It is intended for {audience}. It assumes that you have basic knowledge of:
 
 :information_source: Link each concept to its corresponding content that helps users understand the concepts and ideas behind your software. 
 
-## Before you begin
+## Before you start
 
 :information_source: This section is optional.
 
