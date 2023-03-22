@@ -1,6 +1,6 @@
 # How-to guide
 
-{Read this document before you start working on the [how-to template](how-to-template.md)}.
+{Read this document before you start working on the [how-to template](template-how-to.md)}.
 
 ## Introduction
 
