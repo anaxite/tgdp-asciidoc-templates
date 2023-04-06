@@ -12,6 +12,7 @@ The Code of Conduct template includes:
   * A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.md`. See its accompany guide: `about-code-of-conduct-remediation-record.md`.
 
 You might also consider using the `../our-team/template-our-team.md` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+
 ---
 
 {Include your project's opening statement of purpose in this section.

@@ -12,6 +12,7 @@ The Code of Conduct response plan template includes:
   * A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.md`. See its accompany guide: `about-code-of-conduct-remediation-record.md`.
 
 You might also consider using the `../our-team/template-our-team.md` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+
 ---
 
 
@@ -83,8 +84,8 @@ The {Project name} community will notify the community of any revisions by publi
 
 This section provides a definition of key terms and roles that appear in the incident response policy that follows this section:
 
-- **Incident** - A behavior by a member of the {Project name} that allegedly violates the community [Code of Conduct](code-of-conduct.md). Also known as a “Code of Conduct incident” or “conduct violation.” 
-- **Incident report** - Begins when a member of the {Project name} reports behavior that violates the community Code of Conduct. The incident report refers to the violating behavior that is then investigated by community moderators. Also sometimes referred to as the “report.” 
+- **Incident** - A behavior by a member of the {Project name} that allegedly violates the community [Code of Conduct](code-of-conduct.md). Also known as a “Code of Conduct incident” or “conduct violation.”
+- **Incident report** - Begins when a member of the {Project name} reports behavior that violates the community Code of Conduct. The incident report refers to the violating behavior that is then investigated by community moderators. Also sometimes referred to as the “report.”
 - **Incident reporter** - The person who reports a Code of Conduct violation to a community moderator. Also sometimes referred to as the “reporter.”
 - **Handling an incident report** - The process of investigating and resolving an incident report as explained using the processes and guidelines in the subsequent sections. Also known as “investigating a report.”
 - **Investigating moderator** - The community moderator who will handle the incident report and ensure the report moves through all six stages. Also known as the “investigator.”
@@ -157,7 +158,7 @@ If necessary, the moderator may need to conduct additional interviews with other
 After completing the listening phase, the moderator should assign an initial risk and impact level to the incident using their best judgment based on the following guidelines.
 
 
-**Severity levels**
+#### Severity levels
 Severity refers to the overall seriousness of the behavior and the risk that behavior will be repeated:
 
 <table>
@@ -215,7 +216,7 @@ Severity refers to the overall seriousness of the behavior and the risk that beh
 </table>
 
 
-**Impact levels**
+#### Impact levels
 Impact refers to how public the incident was and the number of community members who were or who could have been impacted by the incident, especially members of marginalized communities:
 
 <table>
@@ -308,7 +309,7 @@ During or immediately after the meeting, the investigating moderator should fill
 The investigating moderator should implement the consequence(s) of the incident response, depending on what the response was.
 The moderator should also follow up with the incident reporter to let them know what the outcome of the report was.
 
-If a temporary ban was implemented, a community moderator who handled the incident should meet with the accused individual to ensure compliance before readmittance into the community.
+If a temporary ban was implemented, the community moderator who handled the incident should meet with the accused individual to ensure compliance before readmittance into the community.
 
 All documentation should be stored in the {describe where your documents are kept}:
 
