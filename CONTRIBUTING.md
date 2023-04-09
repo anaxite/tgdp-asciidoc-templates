@@ -40,7 +40,6 @@ All the templates that are actively being worked on or which could be worked on 
 
 - [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
 - [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
-- [Available templates kanban board](https://gitlab.com/tgdp/templates/-/boards/4896257?assignee_id=None)
 
 
 
@@ -208,7 +207,6 @@ Be aware that:
 Links:
 - [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
 - [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
-- [Available templates kanban board](https://gitlab.com/tgdp/templates/-/boards/4896257?assignee_id=None)
 
 Note that this requires a GitLab account: https://gitlab.com/users/sign_up 
 
@@ -220,7 +218,7 @@ To adopt a template:
 
 3. Notify your template working group lead that you have adopted a template project.
 
-If you claim a template and later realize that you don’t have the time or energy to complete the template project, please your working group lead know.
+If you claim a template and later realize that you don’t have the time or energy to complete the template project, please let your working group lead know.
 
 
 ### Guidelines for choosing a template
