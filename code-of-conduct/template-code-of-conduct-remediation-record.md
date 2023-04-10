@@ -12,6 +12,7 @@ The Code of Conduct remediation record template includes:
   * A Code of Conduct incident record template for a form that is filled out when a community moderator takes an incident report from a community member. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-incident-record.md`. See its accompany guide: `about-code-of-conduct-incident-record.md`.
 
 You might also consider using the `../our-team/template-our-team.md` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+
 ---
 
 TIPS FOR THE COMMUNITY MODERATOR:
@@ -70,7 +71,7 @@ Select one:
 
 ## Behavior modification plan
 
-{List the details of the behavior modification plan as discussed with the other community moderators.
+{List the details of the behavior modification plan as discussed with the other community moderators.}
 
 
 ## Do you agree to follow the plan?
