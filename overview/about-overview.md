@@ -2,7 +2,7 @@
 
 ## When do I need an overview
 
-Your API documentation should include an overview document. This document tells potential users or buyers what they might want to know before they buy.
+Your documentation should include an overview document. This document tells potential users or buyers what they might want to know before they buy.
 
 Users can install or connect to your service if they are already familiar with it, or if someone else has decided that the team will use this solution. Those readers will go to your Quick Start Guide, or get straight to work.
 
@@ -18,7 +18,7 @@ Other readers need to assess your product to decide whether they want to use it.
 
 ### Body of the overview
 
-Contains information that helps the reader get oriented to the API. Answers these questions:
+Contains information that helps the reader get oriented to the product or service. Answers these questions:
 
 * What is it supposed to do? (What problem does it solve, and for whom?)
 * What exact capabilities are available to the user? What services does it offer?
@@ -27,12 +27,12 @@ Contains information that helps the reader get oriented to the API. Answers thes
 * How does it work? (What do users need to know about architecture an internal components?)
 * What dependencies does the developer need to know about before installing?
 * What technical requirements do readers need? Include development environment and licensing requirements.
-* What knowledge prerequisites does the developer need to know about before using the API?
+* What knowledge prerequisites does the developer need to know about before using the product?
 
 ### Post-requisites
 
 * What comes next? Do you want to direct users to the Quick Start to try it out?
-* How to get started with the API?
+* How to get started with the product or service?
 
 ## More information
 
