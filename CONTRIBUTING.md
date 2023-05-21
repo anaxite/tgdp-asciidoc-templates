@@ -9,9 +9,56 @@ One of the core missions of the Good Docs Project is to provide high-quality doc
 
 [TOC]
 
+## What do we work on?
+
+The template working groups create or improve templates for a variety of content types used in documentation projects.
+
+Each template project consists of the following required files:
+
+- **Template file** - The raw template for the content type.
+- **Template guide** - Provides a deeper explanation of how to fill in the template.
+- **Resources** - Includes the resources consulted during the research phase of creating the template. Also includes high quality examples of that content type that served as inspiration for the template.
+- **Process** - Explains best practices for researching, writing, and maintaining this content type.
+- **Example** - After a template project is complete, our Chronologue working group will create an example of the template. They will test the template for overall usability.
+
+See [Template deliverables](template-deliverables.md) for more detailed information about each template deliverable.
+
+
+### Template packs
+
+A template pack is a collection of templates organized together by:
+
+- Common use cases or tasks
+- Needs of particular user personas
+- Popular or interesting documentation frameworks
+- Maturity models
+- Future criteria or needs based on user research and feedback
+
+The core documentation pack is our flagship template pack and it includes the core, fundamental content types that every documentation project needs. If you download one template pack for your project, it should be this one.
+
+From a contribution standpoint, we anticipate that our long-term contributors will eventually develop a specialty or area of expertise in some specific template packs over time.
+
+
+### The Good Docs Project method articles
+
+The Good Docs Project regularly takes in requests from users and stakeholders about what types of content they would like us to provide. Sometimes we receive requests for content that won't make sense as a template and instead would make more sense as an article or blog entry.
+
+We call these types of articles **methods** and publish them on our website under a section called The Good Docs Project methods. Articles written for this framework are titled using the {Article Title} Method, such as the Docs Landing Page Method.
+
+Method projects go through the same contributing process as templates, but are published on our website instead of in the template repository.
+
+
+### Template issues and boards
+
+All the template and method projects that are actively being worked on or which could be worked on have a corresponding issue in the templates repository. Use the issue list or the kanban board to find a project to work on and track your progress as your project moves throughout the template writing phases.
+
+- [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
+- [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
+
+
 ## Before you start
 
-Before starting, ensure you are familiar with the Good Docs Project’s goals, key concepts, and workflows. It might also possibly help to learn more about our project's personas. For more information, see [About the Good Docs Project](https://thegooddocsproject.dev/about/).
+Before starting, register for a [Welcome Wagon meeeting](https://thegooddocsproject.dev/welcome/). At this 30 to 40-minute orientation meeting, you’ll get an introduction to our project's goals, key concepts, and workflows.
 
 We expect all members of our project to be nice to each other and to follow our [Code of Conduct](https://thegooddocsproject.dev/code-of-conduct/) when interacting with other members of the Good Docs Project.
 
@@ -23,7 +70,7 @@ Most of our work is done by participating in one of our working groups, which ge
 Working at a pace of 1-2 hours a week, most template projects take 4-9 months to complete. Keep in mind that we’ll take what you can give. You and your family come first, then work, then volunteering. So, if something in your life prevents you from working on your project, that's okay. Try to let your working group leader know if you won't be able to continue working for a space of time.
 
 
-### Template roles and resources
+### People who are here to support you
 
 As you work on contributing templates to our project, various resources and members of our community are available to help you along the process. These include:
 
@@ -34,93 +81,54 @@ As you work on contributing templates to our project, various resources and memb
 - **Template editors** - This group is in charge of making sure our templates follow standard conventions and model high quality writing. They maintain our style guide, make style guide decisions, notify the community about style guide changes, and help to ensure compliance with our style policies.
 
 
-### Template issues and boards
-
-All the templates that are actively being worked on or which could be worked on have a corresponding issue in the templates repository. Use the issue list or the kanban board to find a template to work on and track your template’s progress as it moves throughout the template writing phases.
-
-- [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
-- [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
-
-
-
-### Required deliverables
-
-See [Template Deliverables](template-deliverables.md) for more detailed information about each template deliverable.
-
-Currently, for a template set to be considered complete, each template set should have these documentation deliverables:
-
-<table>
-  <tr>
-    <th>Deliverable</th>
-    <th>Description and purpose</th>
-    <th>Required?</th>
-  </tr>
-  <tr>
-    <td>Template file</td>
-    <td>The template file is the raw template for the type of document you are creating. It provides a rough outline of the suggested content and a few embedded writing tips for how to fill in the different sections of the template.</td>
-    <td>Required</td>
-  </tr>
-  <tr>
-    <td>Template guide</td>
-    <td>This guide provides a deeper explanation of how to fill in the template. It provides a lightweight introduction to the purpose of this documentation and explains how to fill in each section of the document. Any information that is essential to filling out the template should be noted in this guide.</td>
-    <td>Required</td>
-  </tr>
-  <tr>
-    <td>Deep dive</td>
-    <td>This optional guide is a supplementary guide that can provide additional helpful information to template users such as key research, deeper theories, brainstorming, or pre-writing steps that are too comprehensive or lengthy to be included in the template guide. What is included in this guide may be unique to each template.</td>
-    <td>Optional</td>
-  </tr>
-  <tr>
-    <td>Template example</td>
-    <td>After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions.</td>
-    <td>Required, but occurs after the template writing process</td>
-  </tr>
-</table>
-
 
 ## Overview of the template writing phases
 Contributing a template project to our repository has five phases, as summarized in this table:
 
 <table>
   <tr>
+    <th>#</th>
     <th>Phase</th>
     <th>Your goals</th>
     <th>Resources to help you</th>
   </tr>
   <tr>
-    <td>1 - Join the community</td>
+    <td>1</td>
+    <td>Join the community</td>
     <td><ul>
-          <li>Join our project’s communication channels.</li>
-          <li>Decide which initiative you’d like to work on based on your interests and experience.</li>
+          <li>Join our project by attending a <a href="https://thegooddocsproject.dev/welcome/">Welcome Wagon meeting</a>.</li>
+          <li>Decide which working group you’d like to work on based on your interests and experience.</li>
         </ul>
     </td>
     <td><ul>
           <li>The Good Docs Project community managers</li>
-          <li>Working groups</li>
+          <li>Working group leads</li>
         </ul>
     </td>
   </tr>
   <tr>
-    <td>2 - Adopt a template</td>
+    <td>2</td>
+    <td>Adopt a template or method</td>
     <td><ul>
-          <li>Join a template writing working group.</li>
-          <li>Work with a template working group lead and your group to decide which template you’ll work on.</li>
-          <li>Assign yourself to the corresponding issue for that template. Note that this requires a GitLab account: https://gitlab.com/users/sign_up .</li>
+          <li>Join a template working group.</li>
+          <li>Work with a template working group lead and your group to decide which template or method project you’ll work on.</li>
+          <li>Assign yourself to the corresponding issue for that template or method. Note that this requires a <a href="https://gitlab.com/users/sign_up">GitLab account</a> and you need to be added as a member of the template repository.</li>
         </ul>
     </td>
     <td><ul>
           <li>The issues board on the templates repo</li>
           <li>Template working group leads</li>
-          <li>Template working group</li>
+          <li>The Good Docs Project tech team</li>
         </ul>
     </td>
   </tr>
   <tr>
-    <td>3 - Research and draft</td>
+    <td>3</td>
+    <td>Research and draft<br><br>(Research phase)</td>
     <td><ul>
-          <li>Research examples and best practices for the type of template you are working on.</li>
+          <li>Research examples and best practices for the content type you're creating a template for.</li>
           <li>Collaborate and get early feedback on your research from your template working group lead and/or other templateers as part of a template writing working group.</li>
-          <li>Create drafts of the template set deliverables in Google Docs or your preferred tool.</li>
+          <li>Create drafts of the template project deliverables in Google Docs or your preferred tool.</li>
         </ul>
     </td>
     <td><ul>
@@ -130,7 +138,8 @@ Contributing a template project to our repository has five phases, as summarized
     </td>
   </tr>
   <tr>
-    <td>4 - Get feedback on drafts from the community</td>
+    <td>4</td>
+    <td>Get feedback on drafts from the community<br><br>(Community review phase)</td>
     <td><ul>
           <li>Revise and refine the drafts of your deliverables. Expect to receive feedback from at least three community reviewers.</li>
           <li>Optional: Revise and refine your draft with subject matter experts and individuals beyond our community (such as Write the Docs or subject matter experts).</li>
@@ -145,7 +154,8 @@ Contributing a template project to our repository has five phases, as summarized
     </td>
   </tr>
   <tr>
-    <td>5 - Submit a merge request</td>
+    <td>5</td>
+    <td>Submit a merge request<br><br>(Final review phase)</td>
     <td><ul>
           <li>If needed, convert drafts from Google Docs or your preferred tool to Markdown.</li>
           <li>Open a merge request. NOTE: If you are unfamiliar with Git and GitLab, your template working group lead can recommend you for our Git Training workshop.</li>
@@ -154,12 +164,14 @@ Contributing a template project to our repository has five phases, as summarized
     </td>
     <td><ul>
           <li>Template working group leads</li>
+          <li>Template working group leads</li>
           <li>Git Training workshop</li>
         </ul>
     </td>
   </tr>
   <tr>
-    <td>6 - Hand off to the Chronologue team for user testing</td>
+    <td>6</td>
+    <td>Hand off to the Chronologue team for user testing<br><br>(Chronologue phase)</td>
     <td><ul>
           <li>After completing the previous phase, your template will officially be part of the Good Docs Project and will be available to our users. Yay!</li>
           <li>After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions.</li>
@@ -180,12 +192,21 @@ Each phase is explained in more depth in the remaining sections.
 
 ## Join the community
 
+To join our community, you need to register for a [Welcome Wagon meeeting](https://thegooddocsproject.dev/welcome/). At this 30 to 40-minute orientation meeting, you’ll get:
+
+- A brief overview of our project’s goals and mission.
+- A bit of information about our community and reasons to consider joining.
+- An overview of our key initiatives and working groups that you might consider contributing to.
+- A chance to tell us your goals for contributing as well as your current skill/experience levels to see if we can find a working group and a good first task for you.
+
+After registering for this meeting, you'll get an email with a link to join our Slack workspace. You will be eligible to be a member of our repository after you attend a Welcome Wagon meeting.
+
 To become a full-fledged templateer, you’ll want to join our communication channels so that you can talk to us:
 
-- **Slack** - Our [Slack workspace](https://thegooddocs.slack.com/) is one of the primary means of communicating with members of our project. After joining our workspace, join the `#welcome` channel to introduce yourself to the welcoming committee. Consider also joining these Slack channels if you plan to work on a template:
+- **Slack** - Our Slack workspace is one of the primary means of communicating with members of our project. After joining our workspace, join the `#welcome` channel to introduce yourself. Consider also joining these Slack channels if you plan to work on a template or method project:
   - `#templates`
-  - `#welcome`
-  - One of the community-docs channels (based on your preferred time zone and meeting times)
+  - `#ask-a-community-manager`
+  - `#tech-requests`
 - **Working groups** - Our project is organized into several different working groups that meet on a regular basis to work on the project’s key initiatives. One of the best ways to get started with our project is to join and meet with one of our working groups. See [The Good Docs Project Working Groups](https://thegooddocsproject.dev/working-group/) for a list of our current active groups. NOTE: If you plan to contribute to our project by writing templates, you will be required to join one of the template working groups.
 - **Weekly meetings** - The project leaders hold weekly meetings to discuss project-level decisions. Feel free to join one of these meetings to introduce yourself to the project leaders and discover next steps for getting involved in the project. See the [community calendar](https://thegooddocsproject.dev/community/#calendar) for meeting times.
 
@@ -197,10 +218,10 @@ We expect all members of our project to be nice to each other and to follow our 
 
 ## Adopt a template
 
-In this phase, you will decide which template project you will work on and adopt that template.
+In this phase, you will decide which template or method project you will work on and assign yourself to the issue tracking that project.
 
 Be aware that:
-- Each template project is represented by a corresponding issue in the templates repository.
+- Each template or method project is represented by a corresponding issue in the templates repository.
 - You will use this issue to communicate the status of your template project as it moves through the different phases of the template writing process.
 - The Good Docs Project managers use a kanban board that shows all the issues for the current template projects. This tool allows the templateers and project stakeholders to track the overall progress of each template and assist templateers whose progress is blocked.
 
@@ -208,22 +229,20 @@ Links:
 - [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
 - [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
 
-Note that this requires a GitLab account: https://gitlab.com/users/sign_up 
-
 To adopt a template:
 
-1. Scroll through the list of available template issues and see if one interests you and/or matches your skill set. Alternatively, if you have an idea for a template project that does not yet have an issue, and you have the support of a template working group lead, you can create a new issue for your template project.
+1. Scroll through the list of available template and method issues and see if one interests you and/or matches your skill set. Alternatively, if you have an idea for a template or method project that does not yet have an issue, and you have the support of a template working group lead, you can create a new issue for your project.
 
-2. Assign yourself to the issue. Note that this requires a [GitLab account](https://gitlab.com/users/sign_up). See [Assignee](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#assignee) in the GitLab docs for more information.
+2. Assign yourself to the issue. Note that this requires a [GitLab account](https://gitlab.com/users/sign_up). You must attend a [Welcome Wagon meeeting](https://thegooddocsproject.dev/welcome/) to become a member of the templates repository. After you've attended that meeting, you can request access in the `#tech-requests` Slack channel.
 
 3. Notify your template working group lead that you have adopted a template project.
 
-If you claim a template and later realize that you don’t have the time or energy to complete the template project, please let your working group lead know.
+If you claim a template or method project and later realize that you don’t have the time or energy to complete the template project, let your working group lead know.
 
 
 ### Guidelines for choosing a template
 
-Keep in mind that you don’t need to be an expert on any template type before you adopt it. If you are interested in writing a particular template and are excited enough to do some research to learn more about it, that's all the preparation you need and we welcome your efforts. Even if you don't have a ton of experience writing a particular type of document, you can still write a high-quality template that will be useful to others. With commitment, research, guided mentorship, and feedback from our community, you can and will create something that will have value to others!
+Keep in mind that you don’t need to be an expert on any content type before you adopt it. If you are interested in writing a particular template or method article and are excited enough to do some research to learn more about it, that's all the preparation you need and we welcome your efforts. Even if you don't have a ton of experience writing a particular type of document, you can still write a high-quality template that will be useful to others. With commitment, research, guided mentorship, and feedback from our community, you can and will create something that will have value to others!
 
 With that in mind, when deciding which template project is right for you, scroll through the list of template issues and ask yourself the following questions:
 
@@ -236,17 +255,71 @@ With that in mind, when deciding which template project is right for you, scroll
 If you answered yes to more than one of these questions about a specific type of template, that might be the right template for you to work on!
 
 
-## Research and draft the template
+### Priority levels
 
-In this phase, you will research examples and identify best practices for the type of template you’re working on. At the end of this stage, our project recommends producing your working draft of the template project deliverables in a Google Doc. The reasons we recommend putting your draft in a Google Doc are because it:
+The following table explains the priority levels given to different template or method projects:
+
+<table>
+  <tr>
+    <th>Priority</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Critical</td>
+    <td><ul>
+          <li>A template project that is or will be included in the core template pack. The core template pack is our flagship template pack and the one with the highest visibility and quality.</li>
+          <li>A template project or method that is in extremely high demand from our users, meaning it has been requested by 10 or more users.</li>
+          <li>Any template work that is blocking other template work or which would improve our overall template processes or usability.</li>
+          <li>Any work to get a core template into compliance with our quality standards and/or deliverables.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>High</td>
+    <td><ul>
+          <li>Any template or method for which there is high demand from our users, meaning it has been requested from us by 5-9 users.</li>
+          <li>Any template project that has been earmarked for a specific release by the project steering committee or template leads for whatever reason.</li>
+          <li>Any work to get a high-demand template or method into compliance with our quality standards and/or deliverables.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td><ul>
+          <li>Any new template or method for which there is moderate demand from users, meaning it has been requested by 2-4 users.</li>
+          <li>Any work that has been added to the template roadmap but is not earmarked for a specific release.</li>
+          <li>Any work to get a moderate-demand template or method into compliance with our quality standards and/or deliverables.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Low</td>
+    <td><ul>
+          <li>Any new template or method for which there is low or no demand from users, meaning it has been requested by 1 user.</li>
+          <li>Specialized template projects for a niche audience or area of expertise.</li>
+          <li>Any work to get a low-demand template or method into compliance with our quality standards and/or deliverables.</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+
+
+## Research and draft the template or method
+
+Before starting the research phase, carefully read the [Template deliverables](template-deliverables.md) for more detailed information about each template deliverable. Ensure you understand the purpose of each deliverable.
+
+In this phase, you will research examples and identify best practices for the type of template you’re working on. While you are working on the research phase, you should create a draft for the **resources** template deliverable file. The resources file is where you keep your notes about which resources you consulted and which examples you looked at for guidance.
+
+
+At the end of this stage, our project recommends producing your working draft of the template project deliverables in a Google Doc and that you link to these documents in the issue tracking your project.
+
+The reasons we require your draft in a Google Doc are because it:
 
 - Is free (no license required) and easy to use.
 - Is relatively easy to share with collaborators both inside and outside of the Good Docs Project (such as with the Write the Docs community).
 - Allows collaborators to give feedback and advice in the form of comments.
 - Tracks comment history for later reference.
 - Has version control capabilities.
-
-That being said, you are not required to work in Google Docs. You can work in your preferred tool (such as Markdown, Microsoft Word, or Gitbooks). However, our experience has shown that Google Docs is the easiest tool for collaborating with other Good Docs Project contributors in the early phases of doc development.
 
 
 ### Recommended research strategies
@@ -311,7 +384,7 @@ After your merge request is merged in, your template will officially be part of 
 
 :sparkles: :mega: :raised_hands:
 
-Great documents are never fully done and there is always room for improvement. After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. It's possible that the Chronologue team will identify major or minor revisions that need to be made to the template. 
+Great documents are never fully done and there is always room for improvement. After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. It's possible that the Chronologue team will identify major or minor revisions that need to be made to the template.
 
 If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions. Either the Chronologue writer, the original template author, or another templateer will make any necessary revisions of templates of the template. If extensive revisions are needed, the template may need to go through the same previous template writing phases again.
 
