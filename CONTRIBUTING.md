@@ -76,102 +76,105 @@ As you work on contributing templates to our project, various resources and memb
 
 - **Templateers** - Any individual who contributes to the Good Docs Project (including you!).
 - **The template working group leads** - These templateers oversee our overall template development process as a project manager and provide assistance to contributors working on templates. The working group leads also usually review and approve merge requests submitted to the templates repository.
-- **Template mentors** - This group of experienced templateers lead template writing working groups where you can receive guidance and mentorship while working on your template.
+- **Template mentors and buddies** - New templateers are usually assigned a mentor or buddy to provide guidance and mentorship while working on templates.
 - **Template peers** - Your fellow templateer peers are available to review templates during the research and community feedback phases. They include members of your template writing working group, but also members from the larger Good Docs Project community.
 - **Template editors** - This group is in charge of making sure our templates follow standard conventions and model high quality writing. They maintain our style guide, make style guide decisions, notify the community about style guide changes, and help to ensure compliance with our style policies.
 
 
+### Template working group meetings
 
-## Overview of the template writing phases
-Contributing a template project to our repository has five phases, as summarized in this table:
+The template working groups have three types of meetings:
+
+- **Writer's workshops** - At these meetings, each templateer gives an update on their template project and poses a question to the group about some element of their draft they would like feedback and advice about.
+- **Co-working sessions** - Templateers meet with their template writing partners, mentors, or buddies to work together on their template projects.
+- **Community review sessions** - When a template project is ready for review from the rest of the community, the working group leads schedule a dedicated session for everyone in the group to read and provide feedback about the template files.
+
+
+## Definition of done
+A template project is considered complete when:
+
+1. It has progressed through all the the [template writing phases](#overview-of-the-template-writing-phasees)
+3. It has all the required [template file deliverables](template-deliverables.md).
+
+
+### Overview of the template writing phases
+Contributing a template project to our repository has these phases:
 
 <table>
   <tr>
     <th>#</th>
     <th>Phase</th>
     <th>Your goals</th>
-    <th>Resources to help you</th>
+    <th>Definition of done</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Join the community</td>
+    <td><a href="#join-the-community">Join the community</a></td>
     <td><ul>
           <li>Join our project by attending a <a href="https://thegooddocsproject.dev/welcome/">Welcome Wagon meeting</a>.</li>
-          <li>Decide which working group you’d like to work on based on your interests and experience.</li>
+          <li>Decide which working group you'd like to work on based on your interests and experience.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>The Good Docs Project community managers</li>
-          <li>Working group leads</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete when you create your <em>>Resources</em> document in Google Docs.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Adopt a template or method</td>
+    <td><a href="#adopt-a-template">Adopt a template</a></td>
     <td><ul>
           <li>Join a template working group.</li>
-          <li>Work with a template working group lead and your group to decide which template or method project you’ll work on.</li>
+          <li>Work with a template working group lead and your group to decide which template or method project you'll work on.</li>
           <li>Assign yourself to the corresponding issue for that template or method. Note that this requires a <a href="https://gitlab.com/users/sign_up">GitLab account</a> and you need to be added as a member of the template repository.</li>
+          <li>Use the Google Docs attached to that issue to compose the drafts of the template file deliverables.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>The issues board on the templates repo</li>
-          <li>Template working group leads</li>
-          <li>The Good Docs Project tech team</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete when you assign yourself to the issue tracking your template or method project.</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Research and draft<br><br>(Research phase)</td>
+    <td><a href="#research-the-template">Research the template</a><br><br>(Research phase)</td>
     <td><ul>
           <li>Research examples and best practices for the content type you're creating a template for.</li>
           <li>Collaborate and get early feedback on your research from your template working group lead and/or other templateers as part of a template writing working group.</li>
-          <li>Create drafts of the template project deliverables in Google Docs or your preferred tool.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>Template working group leads</li>
-          <li>Templates working group</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete when you have finished a draft of your <em>Resources</em> document.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Get feedback on drafts from the community<br><br>(Community review phase)</td>
+    <td><a href="#draft-the-template-deliverables">Draft the template deliverables</a><br><br>(Drafting phase)</td>
     <td><ul>
-          <li>Revise and refine the drafts of your deliverables. Expect to receive feedback from at least three community reviewers.</li>
+          <li>Use your template resources document to create the drafts for the rest of your deliverables in Google Docs: template file, template guide, template process.</li>
+          <li>Use the Google Docs attached to that issue to compose the drafts of the template file deliverables.</li>
+          <li>Meet with your working group or writing partners to workshop on and get advice on your drafts while you are working on them.</li>
+        </ul>
+    </td>
+    <td>This phase is considered complete when you schedule your drafts for review by other members of your working group or community.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="#get-feedback-on-drafts-from-the-community">Get feedback on drafts from the community</a><br><br>(Community review phase)</td>
+    <td><ul>
+          <li>When your template deliverables are ready for review, your working group lead will schedule 1-2 sessions in the community where other members of the project will review and provide feedback on your template files deliverables.</li>
           <li>Optional: Revise and refine your draft with subject matter experts and individuals beyond our community (such as Write the Docs or subject matter experts).</li>
           <li>After making revisions, work with your template working group to determine when your draft is ready for the next phase.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>Template working group leads</li>
-          <li>Templates working group</li>
-          <li>Subject matter experts and members of other technical writing communities</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete after you incorporate the feedback into your draft and your drafts are in a final state. Ensure you have permission from the working group lead to move to the final review phase.</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>Submit a merge request<br><br>(Final review phase)</td>
+    <td>6</td>
+    <td><a href="#submit-a-merge-request">Submit a merge request</a><br><br>(Final review phase)</td>
     <td><ul>
           <li>If needed, convert drafts from Google Docs or your preferred tool to Markdown.</li>
           <li>Open a merge request. NOTE: If you are unfamiliar with Git and GitLab, your template working group lead can recommend you for our Git Training workshop.</li>
           <li>Revise documents based on requests from merge request reviewers.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>Template working group leads</li>
-          <li>Template working group leads</li>
-          <li>Git Training workshop</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete when the template is merged into the repository.</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>Hand off to the Chronologue team for user testing<br><br>(Chronologue phase)</td>
+    <td>7</td>
+    <td><a href="#hand-off-to-the-Chronologue-team-for-user-testing">Hand off to the Chronologue team for user testing</a><br><br>(Chronologue phase)</td>
     <td><ul>
           <li>After completing the previous phase, your template will officially be part of the Good Docs Project and will be available to our users. Yay!</li>
           <li>After a template project is complete, our Chronologue working group will create an example of the template. While creating the example, the Chronologue group will test whether your template is user-friendly and can be used in a real documentation project. If you're still involved in the community during this phase, these team members might reach out to you for feedback or to collaborate on possible template revisions.</li>
@@ -304,14 +307,13 @@ The following table explains the priority levels given to different template or 
 </table>
 
 
-## Research and draft the template or method
+## Research the template
 
 Before starting the research phase, carefully read the [Template deliverables](template-deliverables.md) for more detailed information about each template deliverable. Ensure you understand the purpose of each deliverable.
 
 In this phase, you will research examples and identify best practices for the type of template you’re working on. While you are working on the research phase, you should create a draft for the **resources** template deliverable file. The resources file is where you keep your notes about which resources you consulted and which examples you looked at for guidance.
 
-
-At the end of this stage, our project recommends producing your working draft of the template project deliverables in a Google Doc and that you link to these documents in the issue tracking your project.
+Our project composes rough draft of templates in Google Docs that are owned and maintained by the project leads. The Good Docs Project owns these files so that we can maintain our project archive and history. With that in mind, the project has pre-generated Google Doc files for you to use as you are researching and drafting your template project. These files include a starting point for the structure of each file that should help you as you draft the documents. The pre-generated Google Doc files are attached to each open issue.
 
 The reasons we require your draft in a Google Doc are because it:
 
@@ -330,6 +332,18 @@ In our experience, successful templateers usually research their template by:
 - **Searching for guides, books, blog posts, conference presentations, or videos about best practices.** Search the Internet to find advice, tips, or expert research about how to create that type of document. Consider posting in a forum for resource ideas. For example, asking for helpful guides or insights on a community forum like the Write the Docs Slack workspace could be beneficial. Be mindful of, and respect copyright terms of source material. Do not plagiarize and offer attribution where appropriate.
 - **Reaching out to experts.** When you find people you admire, who have researched your topic already, try reaching out to them. They often have a “how to contact me” webpage. Ask if they’d be okay with their material being used. (They might need to republish under a different copyright.) Invite them to participate in the template working group. They might even be prepared to lead it. If you feel shy about reaching out yourself, your template mentor or senior Good Docs Project member might offer to help.
 - **Collaborating with others in a working group.** Work with your template writing working groups to discuss research ideas and findings.
+
+
+## Draft the template deliverables
+
+After you conclude your research, you create drafts of your template file deliverables in Google Docs. See the [Template deliverables](template-deliverables.md) for more detailed information about each template deliverable.
+
+You can also look at examples of other templates in the repository to see examples of each template file. Be aware that some templates might be missing some files.
+
+Your working group will help you as you are working on drafting your templates. At writer's workshop meetings, you can workshop your template by asking for advice or asking questions to get clarification about your template project and content type.
+
+When your draft is in a good place, contact your working group lead to schedule a community review.
+
 
 
 ## Get feedback on drafts from the community
