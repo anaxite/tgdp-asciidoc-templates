@@ -59,7 +59,7 @@ The template user will copy this template and begin filling it in or editing it 
 Each template should have this content:
 - **The template title** - The type of document this template is for. For example, "Tutorial template" or "README template."" This title should be formatted with the heading 1 weight.
 - **Introductory comment** - Include an embedded writing tip at the start that tells users they should first read the accompanying template guide before they fill in the template. Put introductory comments in {curly brackets}.
-- **The template sections** - Each section of the temple should begin with a heading with the heading 2 weight. The recommended content and some embedded writing tips fall under the headings.
+- **The template sections** - Each section of the template should begin with a heading with the heading 2 weight. The recommended content and some embedded writing tips fall under the headings.
 - **Embedded writing tips** - You can provide some lightweight writing tips that provide some tips or hints about what kind of content the template user might choose to put in a section of the document. Put embedded writing tips in {curly brackets}.
 
 > :triangular_flag_on_post: **NOTE: The basic content of the template depends on the type of document you are creating a template for. Different types of documents can have widely varying content needs. While similar document types are likely to require similar structures, other document types may be structured quite differently.**
