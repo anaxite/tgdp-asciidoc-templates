@@ -30,3 +30,12 @@ Begin your explanation topic in this section. 
 For help with writing and structuring an explanation article, see the README.md in the template directory for basic guidelines and links.
 Check out https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/ if you get stuck with AsciiDoc syntax.
 ////
+
+
+
+[comment]
+--
+Explore other templates from link:https://thegooddocsproject.dev/[The Good Docs Project].
+Use our link:https://thegooddocsproject.dev/feedback/?template=Explanation[feedback form] to give feedback on this template.
+--
+

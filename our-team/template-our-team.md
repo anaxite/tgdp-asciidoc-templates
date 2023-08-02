@@ -112,3 +112,7 @@ We are thankful for the hard work and dedication of these past team members:
 - {Name}, {Role}
 - {Name}, {Role}
 - {Name}, {Role}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Our%20team) to give feedback on this template.

@@ -36,3 +36,7 @@
 - **{Deprecated feature title}**
 
   {Deprecated feature description}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Release%20notes) to give feedback on this template.

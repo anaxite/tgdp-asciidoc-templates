@@ -346,3 +346,7 @@ The moderator with a conflict of interest should ensure that another moderator i
 
 If the accused individual is a leader or prominent member of the {Project name} community, avoidance of a conflict of interest may not be possible as all moderators could possibly have a personal working relationship with the accused individual.
 In this situation, recusal is not necessary and moderators should instead make their best effort to remain impartial.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20response%20plan) to give feedback on this template.

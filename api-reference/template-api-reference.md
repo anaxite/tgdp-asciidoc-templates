@@ -182,3 +182,6 @@ The [{authorization method}](#authorization) is required for each API request.
 ```
 {Provide an example of the API response, filled with sample values.}
 ```
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=API%20reference) to give feedback on this template.

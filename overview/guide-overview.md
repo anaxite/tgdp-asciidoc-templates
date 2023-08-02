@@ -41,3 +41,7 @@ Contains information that helps the reader get oriented to the product or servic
 * **Chrome Native Client**. [The Native Client Technical Overview](https://developer.chrome.com/native-client/overview) explains an engine that allows C++ to run in the browser, including why it's a good solution for engineers who want to rework a desktop app and make it usable as a web app.
 
 * **The Jira Platform**. [This overview of the Jira Platform](https://www.atlassian.com/software/jira/guides/getting-started/overview#about-the-jira-platform) does a good job of explaining products and the associated use cases, third-party integrations, hosting options, and licensing.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=About%20Overview) to give feedback on this template.

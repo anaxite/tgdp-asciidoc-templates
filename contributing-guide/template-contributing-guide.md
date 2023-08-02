@@ -119,3 +119,7 @@ Read our {name and link to your style guide} to understand our guidelines for wr
 ### Text formats
 
 {Provide information on what you need contributors to know and use to edit and create documents.}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contributing%20guide) to give feedback on this template.

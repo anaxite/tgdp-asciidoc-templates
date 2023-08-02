@@ -22,3 +22,7 @@ Before you begin, make sure you meet these prerequisites:
 ## What's next
 
 <!-- If you've gotten a new user over the threshold using your API, what should they do next? -->
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=API%20quickstart) to give feedback on this template.
