@@ -3,7 +3,7 @@
 ---
 Thank you for downloading the Code of Conduct template from The Good Docs Project!
 We welcome any kind of feedback on our templates, both positive and negative.
-To suggest improvements, open an issue on our [Templates repository](https://github.com/thegooddocsproject/templates/issues).
+To suggest improvements, use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct).
 
 This is the guide that explains how to use the Good Docs Project Code of Conduct, which is part of the Code of Conduct template set.
 

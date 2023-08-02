@@ -50,3 +50,7 @@ Before you {insert a brief description of the task}, ensure:
 - Reference link
 - Concept link
 - Troubleshooting link}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=How%20to) to give feedback on this template.

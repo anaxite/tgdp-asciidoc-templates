@@ -139,3 +139,7 @@ For more information:
 
 ## Terms of use
 {Project Name} is licensed under {link to license file}.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Readme) to give feedback on this template.

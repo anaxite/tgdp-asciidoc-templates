@@ -99,3 +99,7 @@ Explain that they must still comply with the incident response plan even if an a
 ## Additional information gathered
 
 {List any other observations or notes as needed.}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20remediation%20record) to give feedback on this template.

@@ -139,3 +139,8 @@ guide over time:
 Ref  |  Date         |  Description                               |  Agreed to by
 ---  |  ----         |  -----------                               |  ------------
 1    | {YYYY-MM-DD}  |  {Explain the decision that was made here} |  {Name or role}
+
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Style%20guide) to give feedback on this template.

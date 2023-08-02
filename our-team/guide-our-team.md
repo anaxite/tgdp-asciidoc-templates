@@ -3,7 +3,7 @@
 ---
 Thank you for downloading the Our Team template from The Good Docs Project!
 We welcome any kind of feedback on our templates, both positive and negative.
-To suggest improvements, open an issue on our [Templates repository](https://github.com/thegooddocsproject/templates/issues).
+To suggest improvements, use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Our%20team).
 ---
 
 The `Our Team` template is for open source software projects.

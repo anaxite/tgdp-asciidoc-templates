@@ -10,7 +10,7 @@ tags: # Set other global keywords here like app name and product name or any oth
 
 {Begin your Reference topic in this section. 
 For help with writing and structuring a reference article, see the README.md in the template directory for basic guidelines and links.
-Check out https://www.markdownguide.org/basic-syntax/ if you get stuck with AsciiDoc syntax.}
+Check out https://www.markdownguide.org/basic-syntax/ if you get stuck with Markdown syntax.}
 
 
 # {pipeline} for {app}
@@ -51,3 +51,7 @@ In addition to the mandatory logging properties sent for all log pipelines, the 
 | Property name | Description | Logstash type | Logstash type |
 | :---        | :----       |:----   |:----   |
 | This example row will give you an idea of what to put in this table csdb_appflow.api-guid| The unique API GUID from a <_company_> application flow. This information is extracted from the <apiGuid> element in the XML log| Choose One string integer float |BB31E8B6-88C8-4DEB-9529-8EFD7F680C0B |
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Logging) to give feedback on this template.

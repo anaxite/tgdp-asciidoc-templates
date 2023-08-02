@@ -67,3 +67,7 @@ If yes, fill in the contact information.}
 
 {Only document information required to inform the report resolution.
 Where possible, avoid documenting your opinion about the incident, or any information about individuals that is not relevant to the report.}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20incident%20record) to give feedback on this template.

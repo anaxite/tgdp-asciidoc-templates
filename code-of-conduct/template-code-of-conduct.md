@@ -148,3 +148,7 @@ The Code of Conduct moderators reserve the right to consider communications or a
 
 {Include a list of links to related resources, such as your Code of Conduct Response Plan and the Our Team page where you list who can be contacted to report Code of Conduct incidents.
 You can also include additional information, such as links to articles that explain the rationale behind your Code of Conduct.}
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct) to give feedback on this template.

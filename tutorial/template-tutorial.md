@@ -79,3 +79,7 @@ Consider completing some other common tasks using {feature}:
 * Task 1
 * Task 2
 * Task 3...
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Tutorial) to give feedback on this template.
