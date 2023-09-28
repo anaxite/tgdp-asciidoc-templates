@@ -2,7 +2,7 @@
 
 ## **Overview**
 
- The goal of this troubleshooting guide is to guide developers in using [the troubleshooting template](/troubleshooting-template.md).
+ The goal of this guide is to aid developers in using [the troubleshooting template](/troubleshooting-template.md).
 
 ## When should I include a troubleshooting guide?
 
@@ -54,5 +54,5 @@ For this section, it is best to write the solution(s) in numbered steps. The use
 ## Best practices
 
 * **KISS( Keep It Short & Simple):** Use short and simple explanations. They will make it easier for users to understand how to solve the problems.  
-* **Use images:** They provide a visual representation of the instructions needed to achieve the task. **Note:** Images can be difficult to maintain, so it’s best to only screenshot the relevant parts of the product. Also, avoid using images if the text sufficiently describes the steps.**
+* **Use images:** They provide a visual representation of the instructions needed to achieve the task. **Note:** Images can be difficult to maintain, so it’s best to only screenshot the relevant parts of the product. Also, avoid using images if the text sufficiently describes the steps.
 * **Use meaningful headings:** Your users will read your guide from top to bottom or sometimes skip to certain sections (depending on the guide's topic), so the headings will let them know exactly what the section is discussing.

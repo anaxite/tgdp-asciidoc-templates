@@ -1,6 +1,6 @@
 # Troubleshooting resources
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+Thank you for downloading this template from The Good Docs Project! Before you start creating your troubleshooting guide, read this document to see high quality examples of this guide and review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## Examples of Troubleshooting
 

@@ -1,6 +1,6 @@
 # Troubleshooting process
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+Thank you for downloading this template from The Good Docs Project! Before you create your troubleshooting guide, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## How to research Troubleshooting
 
