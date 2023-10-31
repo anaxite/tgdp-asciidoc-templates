@@ -115,7 +115,7 @@ Contributing a template project to our repository has these phases:
           <li>Decide which working group you'd like to work on based on your interests and experience.</li>
         </ul>
     </td>
-    <td>This phase is considered complete when you create your <em>>Resources</em> document in Google Docs.</td>
+    <td>This phase is considered complete when you create your <em>Resources</em> document in Google Docs.</td>
   </tr>
   <tr>
     <td>2</td>
@@ -182,11 +182,7 @@ Contributing a template project to our repository has these phases:
           <li>Either the Chronologue writer, the original template author, or another templateer will evaluate feedback and incorporate it into future versions of the template. If extensive revisions are needed, the template may need to go through the same previous template writing phases again.</li>
         </ul>
     </td>
-    <td><ul>
-          <li>Template mentor</li>
-          <li>Templates coordinator</li>
-        </ul>
-    </td>
+    <td>This phase is considered complete when the Chronologue team has created an example for the template.</td>
   </tr>
 </table>
 
