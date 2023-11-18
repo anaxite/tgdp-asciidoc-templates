@@ -15,6 +15,7 @@ As projects evolve and grow, so should the according README file. READMEs should
 * Be succinct. READMEs can be long, but that doesn’t mean users need to read pages to understand why they should be interested in your project. 
 * Avoid the passive voice.
 * Focus on why users would want to interact with your project, not just what your project can do.
+* Use all caps to name your file. To make it easier to discover, open source projects name this file in all caps: README.md.
 
 
 ## Content of the README template guide
