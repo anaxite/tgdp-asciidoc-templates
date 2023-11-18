@@ -43,6 +43,10 @@ The following are some examples:
 * Conversational tone and voice: We're excited to have you join the project! Now that you've joined, check out the following ways you can contribute.
 * Formal tone and voice: Thank you for your interest in joining the project. The following are ways you can contribute.
 
+## Best practices
+
+Open source projects name this file in all caps to make it easier to discover: CONTRIBUTING.md. 
+
 ## Template overview
 
 Throughout the contributing guide template, you will see the following:
