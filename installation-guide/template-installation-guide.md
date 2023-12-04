@@ -35,7 +35,7 @@ This guide explains the steps and instructions required to install {product name
 | [V {versionNumber}](#link) | {versionNumber release} | {dd/mm/yyyy}      | {Stable}        |
 
 
-{Explain the intended result of the explain the intended result of the installation, such as the commands, command aliases, major flags, available plugins, files downloaded, or application programs.}
+{Explain the intended result of the installation, such as the commands, command aliases, major flags, available plugins, files downloaded, or application programs.}
 
 {Add a sequential end-to-end summary of the installation process that can serve as a quick link or reference section for users as listed in the following table:}
 
