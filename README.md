@@ -80,16 +80,16 @@ If you download one template pack for your project, it should be this one.
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="/concept">Concept</td>
+    <td>An explanation of a concept, context, or background information about a product or its features.</td>
+  </tr>
+  <tr>
     <td><a href="/how-to">How-to</td>
     <td>A concise set of numbered steps to do one task with the product.</td>
   </tr>
   <tr>
-    <td><a href="/explanation">Explanation (concept)</td>
-    <td>An explanation of a concept, context, or background information about a product or its features.</td>
-  </tr>
-  <tr>
     <td><a href="/readme">README</td>
-    <td>Tells users what they need to know about your project and how users can engage with the project.</td>
+    <td>Information users need to know about your project, including how users can engage with the project and get started with the tool.</td>
   </tr>
   <tr>
     <td><a href="/reference">Reference</td>
@@ -97,11 +97,15 @@ If you download one template pack for your project, it should be this one.
   </tr>
   <tr>
     <td><a href="/release-notes">Release notes</td>
-    <td>Release notes communicate new features, improvements, bug fixes, and known issues about a product to users and stakeholders.</td>
+    <td>Communicate new features, improvements, bug fixes, and known issues about a product to users and stakeholders.</td>
   </tr>
   <tr>
     <td><a href="/tutorial">Tutorial</td>
     <td>Instructions for setting up an example project using the product, intended for the purpose of hands-on learning.</td>
+  </tr>
+  <tr>
+    <td><a href="/troubleshooting">Troubleshooting</td>
+    <td>A list of common problems (referred to as "symptoms") experienced by users, an explanation of the causes, and steps to resolve the issue.</td>
   </tr>
 </table>
 
@@ -133,14 +137,14 @@ The open source community docs template pack includes the fundamental content ty
   </tr>
   <tr>
     <td><a href="/readme">README</td>
-    <td>Tells users what they need to know about your project and how users can engage with the project.</td>
+    <td>Information users need to know about your project, including how users can engage with the project and get started with the tool.</td>
   </tr>
 </table>
 
 
-### Day 2 documentation template pack
-On day 1 when you've incorporated the [Core documentation pack](#core-documentation-template-pack) and set up your initial documentation, you might then need additional templates for your specific use cases on day 2.
-These templates will help you as your documentation project matures.
+### Miscellaneous documentation template pack
+These templates help you create additional content types beyond the [Core documentation pack](#core-documentation-template-pack).
+The templates in this pack help you create content you need as your documentation project matures.
 
 <table>
   <tr>
@@ -156,24 +160,20 @@ These templates will help you as your documentation project matures.
     <td>List of references related to your API.</td>
   </tr>
   <tr>
-    <td><a href="/logging">Logging</td>
-    <td>Description of log pipelines.</td>
-  </tr>
-  <tr>
     <td><a href="/installation-guide">Installation guide</td>
     <td>Explain all the necessary steps to install the product and set it up for further use.</td>
   </tr>
   <tr>
-    <td><a href="/overview">Overview</td>
-    <td>An overview of your product or feature set.</td>
-  </tr>
-  <tr>
-    <td><a href="/quickstarts">Quickstart</td>
+    <td><a href="/quickstart">Quickstart</td>
     <td>A quickstart introduces your users to your application for the first time.It focuses on the primary feature of the application and helps your users to start using the application as quickly as possible.</td>
   </tr>
   <tr>
     <td><a href="/style-guide">Style guide</td>
     <td>A style guide provides project contributors with general guidelines for writing project documentation. The overall goal of a style guide is to ensure quality and consistency throughout the project's documentation, which is especially important if different authors are contributing to the documentation over time.</td>
+  </tr>
+  <tr>
+    <td><a href="/terminology-system">Terminology system</td>
+    <td>Using this template, writing teams can ensure they consistently use and translate the same terms across all the documentation in their system.</td>
   </tr>
 </table>
 
