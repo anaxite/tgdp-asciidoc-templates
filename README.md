@@ -179,7 +179,7 @@ The templates in this pack help you create content you need as your documentatio
 
 
 ## Provide feedback on our templates
-Use our [feedback form](https://thegooddocsproject.dev/feedback/) if you would like to provide feedback on our templates. You could also [open an issue](https://gitlab.com/tgdp/templates/-/issues).
+Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Project%20README%20on%20Gitlab) if you would like to provide feedback on our templates. You could also [open an issue](https://gitlab.com/tgdp/templates/-/issues).
 
 
 ## Contribute to our project
