@@ -1,5 +1,7 @@
 # Template Code of Conduct incident record
 
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-code-of-conduct-incident-record.md).
+
 ---
 The Code of Conduct incident record template includes:
 

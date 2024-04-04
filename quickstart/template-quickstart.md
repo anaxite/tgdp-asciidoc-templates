@@ -2,7 +2,9 @@
 
 # Title
 
-:information_source: Before using this template, read the accompanying [quickstart template guide](quickstart-template-guide.md).
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-quickstart-template.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## Overview
 

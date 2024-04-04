@@ -1,5 +1,7 @@
 # Troubleshooting process
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 Thank you for downloading this template from The Good Docs Project! Before you create your troubleshooting guide, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## How to research Troubleshooting
@@ -27,3 +29,7 @@ Just like in the creation process, your organization's support team's insight is
 * How can we make this guide more interactive?
 It's also helpful to conduct a document review meeting with the support team after a week or two after a release of the document.  This would ensure that the document meets the demands of customers, especially the support inquiries has changed.  
 Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Troubleshooting%20process) to give feedback on this template.

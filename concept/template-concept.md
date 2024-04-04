@@ -1,7 +1,8 @@
 # Concept template
 
-{Before using this template, read the accompanying [concept template
-guide](guide-concept.md)}
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-concept.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 A summary paragraph introducing a concept, explaining its importance or
 relevance, and providing an overview of the content that will be covered
@@ -101,3 +102,7 @@ External resources
 1.  Resource 1
 
 2.  Resource 2
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Concept) to give feedback on this template.

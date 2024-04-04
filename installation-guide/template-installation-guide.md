@@ -1,6 +1,8 @@
 # Title
 
-{Before using this template, read the accompanying [installation guide](guide-installation-guide.md).}
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-installation-guide.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## Introduction
 {The installation guide template includes information on writing procedures for successfully installing {product name}. {Insert your preferred description of the installation process.}

@@ -1,6 +1,6 @@
 # Quickstart Guide
 
-:information_source: Read this document before you start working on the [quickstart template](quickstart-template.md).
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## Introduction
 
@@ -148,3 +148,7 @@ Step 3 Configure your new project
 ## References
 
 * [What is a quickstart to you?](https://ffeathers.wordpress.com/2018/10/08/what-is-a-quickstart-to-you/) 
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Quickstart%20guide) to give feedback on this template.

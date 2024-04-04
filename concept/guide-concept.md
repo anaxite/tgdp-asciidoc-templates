@@ -1,9 +1,7 @@
 # Concept template guide
 
-Thank you for downloading this template from The Good Docs Project! 
-Before using the template, read this template guide for information about how to complete each section. 
-Want to explore more templates? 
-Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## What is a concept doc?
 
@@ -403,3 +401,6 @@ understanding:
     helps readers grasp the new information more effectively.
 
 
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Concept%20guide) to give feedback on this template.

@@ -1,5 +1,6 @@
 # README template guide
-Read this document before you start working on the README template.
+
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## Why do I need a README?
 Your README is your project's first impression and the first document users expect to find in a project's root folder. A README tells users what they need to know about your project, if the project is relevant to the user, and how users can engage with the project.
@@ -144,3 +145,7 @@ Include your project license and other relevant licensing information.
 * [List of README examples compiled by matiassingers](https://github.com/matiassingers/awesome-readme)
 
 If there are other README resources you think can be linked in this guide, please [open an issue](https://gitlab.com/tgdp/templates/-/issues) to let us know!
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Readme%20guide) to give feedback on this template.

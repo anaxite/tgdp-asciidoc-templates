@@ -1,5 +1,7 @@
 # Concept template process
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 This document explains best practices for researching, writing, and
 maintaining a concept document. It extends and structures the
 information described in the template guide in a step-by-step way. As
@@ -233,3 +235,8 @@ It may look somewhat like this:
 | 2.0     | 2023-06-01 | Added a new limitation               |
 | 1.1     | 2023-02-01 | Enhanced explanation of key concepts |
 | 1.0     | 2023-01-01 | Initial Concept Document             |
+
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Concept%20process) to give feedback on this template.

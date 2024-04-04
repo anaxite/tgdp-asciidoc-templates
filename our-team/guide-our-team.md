@@ -1,10 +1,6 @@
 # Our Team template guide
 
----
-Thank you for downloading the Our Team template from The Good Docs Project!
-We welcome any kind of feedback on our templates, both positive and negative.
-To suggest improvements, use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Our%20team).
----
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 The `Our Team` template is for open source software projects.
 The template helps you clearly communicate who belongs to your open source project or organization.
@@ -158,3 +154,7 @@ Alternatively, you can simply make a mental note to update it any time a new ind
 ## Acknowledgements
 
 While creating this template, the authors were inspired by the [Write the Docs Team](https://www.writethedocs.org/team/) page.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Our%20team%20guide) to give feedback on this template.

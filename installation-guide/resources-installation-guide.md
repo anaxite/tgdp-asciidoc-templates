@@ -1,6 +1,6 @@
 # Installation guide resources
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## Examples of Installation guide
 
@@ -25,4 +25,6 @@ The authors of this template want to acknowledge the resources that were consult
 | [Diataxis Documentation System](https://diataxis.fr/?utm_source=https://thegooddocsproject.dev) | This documentation system explains the implications of tutorials, how-to guides, technical references, and explanations in a documentation. It helped us better understand the differentiation between a tutorial, how-to, and reference document, as described in the installation template guide. |
 | [Semantic Versioning 2.0.0](https://semver.org/?utm_source=https://thegooddocsproject.dev) | This specification standard informed the “product version history” section of the template and the structure of the installation guide semantic versioning. |
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Installation%20guide%20resources) to give feedback on this template.
+---
+
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Installation%20guide%20resources) to give feedback on this template.

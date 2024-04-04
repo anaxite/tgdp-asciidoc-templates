@@ -1,6 +1,8 @@
 # Release Notes - {Product Name} {Release Number - 0.0.0}
 
-{Before using this template, read the accompanying [release notes template guide](release-notes-template-guide.md)}.
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-release-notes.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## {Optional: Release Notes Version - 0}
 ## {Release Date - YYYY-MM-DD}

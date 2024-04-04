@@ -1,6 +1,8 @@
 # Title
 
- {Before using this template, read the accompanying [how-to template guide](guide-how-to.md)}
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-how-to.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## Overview
 
@@ -53,4 +55,4 @@ Before you {insert a brief description of the task}, ensure:
 
 ---
 
-> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=How%20to) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=How-to) to give feedback on this template.

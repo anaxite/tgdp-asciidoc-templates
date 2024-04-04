@@ -1,5 +1,7 @@
 # What is a Quick Start
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 Quick Start Guides should be a clear, concise, ordered step-by-step procedure.
 They should describe the easiest way for readers to achieve a result that shows off the capabilities of your product.
 They should not delve into optimizations or advanced use cases.
@@ -34,3 +36,7 @@ Do not include content that belongs in the overview, including a general descrip
 ## Links to examples
 
 * **Jekyll**. [This SSG](https://jekyllrb.com/docs/) offers a good example of a Quick Start. Note that the setup info is in a separate document, and linked to in the first step.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=API%20quickstart%20guide) to give feedback on this template.

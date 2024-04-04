@@ -1,5 +1,7 @@
 # Code of Conduct response plan template
 
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-code-of-conduct-response-plan.md).
+
 ---
 The Code of Conduct response plan template includes:
 

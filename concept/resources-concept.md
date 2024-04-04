@@ -1,5 +1,7 @@
 # Concept document template resources
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 ## Examples of concept documents
 
 The following examples have been selected as they are widely referenced
@@ -76,3 +78,6 @@ should look at.
 | [Your Brains on Fiction](https://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-fiction.html?pagewanted=all) (Accessed 2023-11-06)                                       | From this article, we’ve taken neuroscientific research about the impact of stories on the brain, revealing that reading narratives triggers not only classical language regions but also various sensory and motor areas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Ryan Young - Is it (layer) cake: Thinking in content levels](https://youtu.be/0OKRNQvZbL4) (Accessed 2023-11-06)                                                                                     | From this talk, we’ve taken a framework called a layered cake of content. It describes a tiered structure designed to cater to diverse user needs and navigational preferences. At the pinnacle are the high-level content pages, strategically crafted for orientation, guiding users through the landscape of possibilities with overview pages. Delving into the intricacies, the low-level content pages take center stage, focusing on implementation and offering step-by-step instructions. Bridging the realms of high and low, the mid-level content pages facilitate decision-making, providing a deeper understanding than high-level content without the exhaustive detail of low-level, incorporating integration guides and concept documents. |
 
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Concept%20process) to give feedback on this template.

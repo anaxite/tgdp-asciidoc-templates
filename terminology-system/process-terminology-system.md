@@ -1,4 +1,7 @@
 # Terminology system process
+
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 This document explains best practices for researching, writing, and maintaining a terminology system. 
 
 ## Researching a terminology system
@@ -22,3 +25,7 @@ Terms might be spread out in different documents and might be conflicting. It mi
 ## Maintaining a terminology system
 A terminology system will evolve over time. New terms are created, some terms get obsolete, products change names, just as it happens with the language we speak. 
 To maintain a terminology system currently, plan for periodical reviews and timely updates. When new terms are introduced, updated, or archived, make sure to announce the changes internally and externally.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Terminology%20system%20process) to give feedback on this template.

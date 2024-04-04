@@ -1,7 +1,6 @@
 # Installation template guide
 
-Read this document before you start working on the [installation template](./template-installation-guide.md).
-
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## Introduction
 An installation guide covers all the steps necessary to install the product and set it up for further use. You need an installation guide to install:
@@ -152,3 +151,7 @@ In this section, include essential or recommended steps to take after installing
 
 ### About the “Definition of terms” section
 This section is optional. Provide a glossary table describing the terms, acronyms, and abbreviations used in the installation guide.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Installation%20guide%20guide) to give feedback on this template.
