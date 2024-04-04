@@ -1,5 +1,7 @@
 # The tutorial template
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 The tutorial template includes:
 
 * Placeholder text that you can replace with your own text. This text is indicated in {curly braces}.

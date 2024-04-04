@@ -1,5 +1,7 @@
 # About the Contributing Guide Template
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 ## Introduction
 
 The contributing guide template provides a baseline for building your project’s contributing guidelines and contribution workflow. This document will help you learn about contributing guides and how to use the template.
@@ -182,3 +184,7 @@ This section contains the following subsections to help describe your project’
 * [Google Style Guides](https://google.github.io/styleguide/) by Google
 * [Using the Fork-and-Branch Git Workflow](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) by Scott Lowe
 * [Giving Respectful Feedback](https://symfony.com/doc/current/contributing/community/review-comments.html#giving-positive-feedback) by Symfony
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contributing%20guide%guide) to give feedback on this template.

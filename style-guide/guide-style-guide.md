@@ -1,8 +1,7 @@
 # The style guide
 
-The style guide template itself occasionally includes placeholder text that
-is intended for you to replace with your own text. This text is indicated in
-{curly brackets}.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 
 ## When do I need a style guide?
 
@@ -184,3 +183,7 @@ lot of decisions while working on a project long-term. A decision log can track
 the decisions you've agreed upon. A decision log lists the key decisions made on
 the project. If your project has a separate decision log, you can link to it or
 provide one here.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Style%20guide%20guide) to give feedback on this template.

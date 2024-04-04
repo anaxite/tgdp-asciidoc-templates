@@ -1,6 +1,6 @@
 # Installation guide process
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 This document describes the step-by-step process for researching, preparing and writing an installation guide. It is designed to be used by novice and experienced professionals to write a successful installation guide.
 
@@ -31,4 +31,6 @@ To maintain helpful, up-to-date and accurate information within an installation 
 - Document the changes made.
 - Review and finalize the updated installation guide.
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Installation%20guide%20process) to give feedback on this template.
+---
+
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Installation%20guide%20process) to give feedback on this template.

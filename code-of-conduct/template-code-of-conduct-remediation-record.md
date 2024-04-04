@@ -1,5 +1,7 @@
 # Template Code of Conduct remediation record
 
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-code-of-conduct-remediation-record.md).
+
 ---
 The Code of Conduct remediation record template includes:
 

@@ -1,9 +1,6 @@
 # Code of Conduct response plan template guide
 
----
-Thank you for downloading the Code of Conduct response plan template from The Good Docs Project!
-We welcome any kind of feedback on our templates, both positive and negative.
-To suggest improvements, use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20response%20plan).
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 This is the guide that explains how to use the Good Docs Project Code of Conduct response plan, which is part of the Code of Conduct template set.
 
@@ -181,3 +178,7 @@ The following lists some of the resources for training your moderators that were
 - [Otter Tech Code of Conduct Enforcement Training](https://otter.technology/code-of-conduct-training/)
 
 Once again, if there are other resources that we are not aware of, please [open an issue](https://github.com/thegooddocsproject/templates/issues) to let us know!
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20response%20plan%20guide) to give feedback on this template.

@@ -1,9 +1,6 @@
 # Code of Conduct template guide
 
----
-Thank you for downloading the Code of Conduct template from The Good Docs Project!
-We welcome any kind of feedback on our templates, both positive and negative.
-To suggest improvements, use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct).
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 This is the guide that explains how to use the Good Docs Project Code of Conduct, which is part of the Code of Conduct template set.
 
@@ -145,3 +142,7 @@ In creating this Code of Conduct, the authors adapted or were inspired by the fo
 - [No more rock stars: how to stop abuse in tech communities](https://hypatia.ca/2016/06/21/no-more-rock-stars/)
 - [Otter Tech Code of Conduct Enforcement Training](https://otter.technology/code-of-conduct-training/)
 - [Rust Community Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Code%20of%20conduct%20guide) to give feedback on this template.

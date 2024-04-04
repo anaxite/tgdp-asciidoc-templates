@@ -1,6 +1,8 @@
-{This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.}
-
 # Troubleshooting {product name, feature, or task}
+
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-troubleshooting.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 {Briefly describe the scope of the troubleshooting guide in 1-2 sentences. For example, explain if the troubleshooting guide covers the full scope of the product or a specific task or feature.}
 
@@ -33,3 +35,7 @@
 * [Link](https://example.com/article1.html)
 * [Link](https://example.com/article2.html)
 * [Link](https://example.com/article3.html)
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Troubleshooting) to give feedback on this template.

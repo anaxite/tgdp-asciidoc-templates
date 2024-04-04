@@ -1,5 +1,7 @@
 # Terminology system resources
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 ## Examples of terminology systems
 
 * Go to the Microsoft Learn site and select 'Microsoft terminology search'. [Microsoft Terminology Search](https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology#microsoft-terminology-1)
@@ -26,3 +28,6 @@
 
 * For an article about the importance of having a terminology system, see [What is terminology](https://www.termnet.org/downloads/english/about_us/what_is_terminology_2006_05.pdf).
 
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Terminology%20system%20esources) to give feedback on this template.

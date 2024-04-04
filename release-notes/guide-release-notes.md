@@ -1,6 +1,6 @@
 # Release Notes Template Guide
 
-:information_source: Read this document before you start working on the [release notes template](release-notes-template.md).
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
 ## Introduction
 
@@ -242,3 +242,7 @@ See the [Recommendations Widget (deprecated)](http://example.com).
 ## Additional Resources
 
 See “[How to write meaningful release notes](https://drive.google.com/file/d/1q5GVhFEcUFzYxSkeOvzAyN9Gh0xPbAI-/view)” for additional ideas.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Release%20notes%20guide) to give feedback on this template.

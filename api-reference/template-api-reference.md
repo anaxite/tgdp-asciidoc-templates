@@ -1,6 +1,8 @@
 # API Reference template
 
-{Before using this template, read [the accompanying guide](api-reference-guide.md) to this template}.
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-api-reference.md).}
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## Overview
 
@@ -182,6 +184,7 @@ The [{authorization method}](#authorization) is required for each API request.
 ```
 {Provide an example of the API response, filled with sample values.}
 ```
+
 ---
 
 > Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=API%20reference) to give feedback on this template.

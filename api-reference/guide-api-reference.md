@@ -1,5 +1,7 @@
 # API reference guide
 
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
 This `api-reference-guide` document provides extra writing tips describing how to fill in each of the sections within the [`api-reference-template`](api-reference-template.md) file.
 
 ## Overview
@@ -264,3 +266,7 @@ Use the _Response example_ section to provide an example of the response body if
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/)
 - [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 - [HTTP Response Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=API%20reference%20guide) to give feedback on this template.

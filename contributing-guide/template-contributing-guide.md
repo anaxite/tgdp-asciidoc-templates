@@ -1,6 +1,8 @@
 # {Project Name} Contributing Guide
 
-{**Note:** The contributing guide template is customizable; you can **reorder, rename, and remove sections** that do not apply to your project. To learn how to use this template, read the [accompanying guide](about-contributing-guide.md).}
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-contributing-guide.md).
+
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
 ## Welcome
 

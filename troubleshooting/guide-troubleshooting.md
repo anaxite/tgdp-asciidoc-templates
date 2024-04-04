@@ -1,8 +1,8 @@
-# **Troubleshooting Guide**
+# Troubleshooting Guide
 
-## **Overview**
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
- The goal of this guide is to aid developers in using [the troubleshooting template](/troubleshooting-template.md).
+## Overview
 
 ## When should I include a troubleshooting guide?
 
@@ -37,7 +37,7 @@ Before you start creating your troubleshooting guide, ensure that you have:
 * Symptoms of the problem
 * Solution of the problem
 
-## **About the Introduction section**
+## About the Introduction section
 
 This section should help users understand within a few seconds whether they are reading the right document. Here, you want to describe the problem that users are having. A good example would be, “This article will help you resolve the slow response that often occurs when you turn on your Mac computer”.
 
