@@ -156,14 +156,17 @@ Example: To begin the system updates:
 
 Communicating with the product engineers and programmers is essential to keep this section up-to-date.}
 
-{Problem: ...}
+### {Problem title: ...}
+{Optional: More details about the problem.}
 
-{Cause: …}
+{Optional **Cause:** Cause …}
 
-{Solution: …}
+**Solution:** {Solution …}
 
-{Support/contact information for issue reports and feedback.}
+{Optional: **Contact:** Support/contact information for issue reports and feedback.}
 
+### {Problem title: ...}
+...
 
 ## Next steps
 {Include what to do after a successful installation, such as a recommended next step or links to further recommended documentation.}
