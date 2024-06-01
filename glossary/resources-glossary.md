@@ -3,12 +3,14 @@
 Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high-quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## Examples of glossaries
+
 * [Github glossary](https://docs.github.com/en/get-started/quickstart/github-glossary) - This resource provided an example of a glossary in a published web page, with each term or heading linkable.
 * [Glossary - Fisheye Server 4.7 (Atlassian)](https://confluence.atlassian.com/fisheye047/glossary-981149994.html) - This resource provided an example of a glossary in a published web page, with each term or heading linkable.
 * [“My glossary template” (Open University)](https://www.open.edu/openlearn/pluginfile.php/402344/mod_resource/content/3/eco_1_glossary_template.pdf) - This resource provides an example of a glossary with a simple table-in-document format.
 * [Content Design Glossary Template (Atlassian)](https://www.atlassian.com/software/confluence/templates/content-design-glossary) - This resource provided an example of glossary that combined the table format and linkable header approaches.
 
 ## References
+
 The authors of this template want to acknowledge the resources that were consulted in the making of this template and how it informed certain elements of the template:
 
 | Source material | Best practice or section |
