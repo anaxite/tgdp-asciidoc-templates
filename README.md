@@ -160,12 +160,20 @@ The templates in this pack help you create content you need as your documentatio
     <td>List of references related to your API.</td>
   </tr>
   <tr>
+    <td><a href="/contact-support">Contact support</td>
+    <td>A contact support page typically includes a list of the communication channels, discussion forums, and links to other resources to assist users with issues that they are having with your product.</td>
+  </tr>
+  <tr>
+    <td><a href="/glossary">Glossary</td>
+    <td>A reference document that lists and organizes terms and their definitions that are unique to your organization or which you use in a specific way.</td>
+  </tr>
+  <tr>
     <td><a href="/installation-guide">Installation guide</td>
     <td>Explain all the necessary steps to install the product and set it up for further use.</td>
   </tr>
   <tr>
     <td><a href="/quickstart">Quickstart</td>
-    <td>A quickstart introduces your users to your application for the first time.It focuses on the primary feature of the application and helps your users to start using the application as quickly as possible.</td>
+    <td>A quickstart introduces your users to your application for the first time. It focuses on the primary feature of the application and helps your users to start using the application as quickly as possible.</td>
   </tr>
   <tr>
     <td><a href="/style-guide">Style guide</td>
@@ -174,6 +182,10 @@ The templates in this pack help you create content you need as your documentatio
   <tr>
     <td><a href="/terminology-system">Terminology system</td>
     <td>Using this template, writing teams can ensure they consistently use and translate the same terms across all the documentation in their system.</td>
+  </tr>
+  <tr>
+    <td><a href="/user-personas">User personas</td>
+    <td>User personas are a framework to identify the characteristics that differentiate each user type for your product or service. Discovering more about your users will help you make user-centric product decisions and produce better documentation.</td>
   </tr>
 </table>
 

@@ -4,11 +4,11 @@ Thank you for downloading this template from The Good Docs Project! Before using
 
 Take a look at the following accompanying resources:
 
-* To fill out your relevant user characteristics into a structured template, explore the [User persona template](User_personas_template.md).  
+* To fill out your relevant user characteristics into a structured template, explore the [User persona template](user-personas-template.md).
 
-* To see examples and explanations about how to fill in the User personas template, explore the [User persona template guide](User_personas_template_guide.md).
+* To see examples and explanations about how to fill in the User personas template, explore the [User persona template guide](user-personas-guide.md).
 
-* To read more from the sources that inspired and shaped our documents on user personas, explore our [User personas resources](User_personas_resources.md).
+* To read more from the sources that inspired and shaped our documents on user personas, explore our [User personas resources](user-personas-resources.md).
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Despite your time or business limitations, any effort within each step is prefer
 
 ## Determine project goals
 
-Begin with a moment to brainstorm and write out your project’s goals. Identify your goals first, so you can develop user personas that serve the specific context of your project. 
+Begin with a moment to brainstorm and write out your project’s goals. Identify your goals first, so you can develop user personas that serve the specific context of your project.
 
 Your project goals influence which dimensions and attributes will be most important to select for your user personas.
 
@@ -38,11 +38,11 @@ The following are some general examples of possible project goals:
 
 * **Training and learning development:** Personalize training experiences by aligning learning content with diverse backgrounds and learning preferences to optimize engagement and skill acquisition.
 
-Once you have established clear project goals for your desired outcome, you can plan how your user personas will best contribute to your ongoing project. Adapt the scale and timeframe of your user research and persona creation process to suit your own personal requirements. 
+Once you have established clear project goals for your desired outcome, you can plan how your user personas will best contribute to your ongoing project. Adapt the scale and timeframe of your user research and persona creation process to suit your own personal requirements.
 
 ## Project sequence
 
-To get the most use out of your user personas, integrate them at the start of your project planning. Predict your user types during the initial stage of requirements analysis, and confirm your user personas through user research before implementing major design changes or reaching key project milestones. 
+To get the most use out of your user personas, integrate them at the start of your project planning. Predict your user types during the initial stage of requirements analysis, and confirm your user personas through user research before implementing major design changes or reaching key project milestones.
 
 The following table is an example project sequence of where user personas fit within the information development cycle.
 | Project stage      | Description |
@@ -60,17 +60,17 @@ The following table is an example project sequence of where user personas fit wi
 
 Before conducting your own research, check first for any user research data that is available. If you work with anyone in user experience, product management, customer success, customer support, or usability, then they will likely be one of your best assets when developing user personas. Engage with these specialists or teams to gain access to user insights and feedback (such as survey results, interviews, or usability data). They may have already created user personas or valuable resources that can aid your project. If you open a line of communication with your resident user expert, you can leverage existing research.
 
-If you don’t have access to up-to-date user research, try to find a cross-team member or internal stakeholder who can connect you directly with users so you can schedule interviews or send out questionnaires. 
+If you don’t have access to up-to-date user research, try to find a cross-team member or internal stakeholder who can connect you directly with users so you can schedule interviews or send out questionnaires.
 
 If none of the above are options, you can reach out on relevant community forums, communication channels, or discussion boards to find active users who may be interested in sharing their feedback.
 
 ## Draft proto-personas
 
-Out of all attributes you could use as criteria for defining your user groups, identify the most critical attribute(s) relevant to your project goals. This attribute can serve as more a significant measuring stick, or dimension, that you expect will classify all your user groups (for example, if my goal is to improve the onboarding process for users, I might choose “use case” as a dimension upon which to base my user personas). 
+Out of all attributes you could use as criteria for defining your user groups, identify the most critical attribute(s) relevant to your project goals. This attribute can serve as more a significant measuring stick, or dimension, that you expect will classify all your user groups (for example, if my goal is to improve the onboarding process for users, I might choose “use case” as a dimension upon which to base my user personas).
 
-If it seems unclear which core attribute to choose for a dimension, you can always analyze the results of your user research to see which patterns emerge before committing to a dimension. It is also possible that you may decide to forgo using a dimension for your user personas, or find that there is more than a single dimension at play. User personas can be adapted to serve multiple purposes and applications, so their design is not one-size-fits-all. See more on selecting [dimensions](User_personas_template_guide.md#about-the-dimensions-section)
+If it seems unclear which core attribute to choose for a dimension, you can always analyze the results of your user research to see which patterns emerge before committing to a dimension. It is also possible that you may decide to forgo using a dimension for your user personas, or find that there is more than a single dimension at play. User personas can be adapted to serve multiple purposes and applications, so their design is not one-size-fits-all. See more on selecting [dimensions](user-personas-guide.md#about-the-dimensions-section)
 
-Next, select relevant attributes for each user persona. You may brainstorm more attributes during the drafting phase, but will likely need to narrow these down as you finalize the user personas for use. See more on selecting [attributes](User_personas_template_guide.md#about-the-attributes-section). 
+Next, select relevant attributes for each user persona. You may brainstorm more attributes during the drafting phase, but will likely need to narrow these down as you finalize the user personas for use. See more on selecting [attributes](user-personas-guide.md#about-the-attributes-section).
 
 ## Plan your user research method
 
@@ -110,27 +110,27 @@ Here are a few questions to help you target productive results when planning you
 
 * When you design interview questions or questionnaire items, compose open-ended questions that avoid leading questions where a desired answer is suggested. Frame questions neutrally to encourage honest and unbiased responses. Use prompts like "Tell me more about..." or "Can you describe how you...?
 
-* Key topics may include questions about users' needs, wants, preferred features, and any pain points they encounter with the product or documentation. You may also want to understand each user’s experience level, domain knowledge, or technical expertise if that is an attribute you intend to include. 
+* Key topics may include questions about users' needs, wants, preferred features, and any pain points they encounter with the product or documentation. You may also want to understand each user’s experience level, domain knowledge, or technical expertise if that is an attribute you intend to include.
 
 ## Validate user personas
 
 Conduct your user research according to your timeline. If you are interviewing users, start by briefly explaining the purpose of your research and how their participation will help improve your project or product. You may ask them permission to record the interview, or have a team member take notes during their responses. It’s important to listen actively and allow space for the interviewee to share anything about their experience with your product. Some of the most valuable and candid responses can come from topical moments that may deviate from your interview script.
 
-If you are sending out a questionnaire, you may need to send it out more than once, each time with friendly reminders that note when the option to provide feedback closes. On one hand, you do not want to bombard your users with annoying emails or notifications. On the other hand, some users will appreciate the follow-up and happily share their perspective as long as they are given a margin of time and reminders to respond. 
+If you are sending out a questionnaire, you may need to send it out more than once, each time with friendly reminders that note when the option to provide feedback closes. On one hand, you do not want to bombard your users with annoying emails or notifications. On the other hand, some users will appreciate the follow-up and happily share their perspective as long as they are given a margin of time and reminders to respond.
 
 Don’t forget to thank your participants. If you’ve secured any tokens of appreciation (such as company swag, gift cards, or thank you messages) for their efforts, ensure that those are sent out. If you hold an open hour or post to a community board, you could inform interested participants to look for updates about your project there.
 
 ## Analyze results
 
-Review your notes and research results to identify common themes, patterns, and unexpected responses. Confirm or adapt your expectations about who your users are and what they need. 
+Review your notes and research results to identify common themes, patterns, and unexpected responses. Confirm or adapt your expectations about who your users are and what they need.
 
 This is another point in the research process where confirmation bias can lessen the quality of your insights, so it’s important to pay close attention to any evidence that challenges your assumptions. Another way to reduce the influence of bias is to involve multiple team members or stakeholders in the analysis and interpretation of the data you’ve acquired. Discuss findings with peers and colleagues who have different perspectives to challenge a single viewpoint.
 
 ## Revise user personas
 
-Make adjustments to your proto-personas based on new insights from findings. You may notice new dimensions or an entire user type that was previously undetected. Add, eliminate, or rearrange user personas and their core attributes as needed. 
+Make adjustments to your proto-personas based on new insights from findings. You may notice new dimensions or an entire user type that was previously undetected. Add, eliminate, or rearrange user personas and their core attributes as needed.
 
-Fill in specific details and descriptions for each user persona’s attributes. While our template provides a basic structure you can follow, this is also a good time to consider any unique elements you want to add as a means for distinguishing each user persona. For example, an additional element could be a quote or phrase from the perspective of the user persona that summarizes their character and helps immediately bring them to mind. 
+Fill in specific details and descriptions for each user persona’s attributes. While our template provides a basic structure you can follow, this is also a good time to consider any unique elements you want to add as a means for distinguishing each user persona. For example, an additional element could be a quote or phrase from the perspective of the user persona that summarizes their character and helps immediately bring them to mind.
 
 ## Get feedback
 
@@ -138,7 +138,7 @@ Share a report or presentation of key findings from your user research with your
 
 If users can identify a user persona they feel reflects themselves, you’ve met your goal to create relevant personas. If real users do not recognize any personas that they can “fit” into, more revisions are possibly needed.
 
-Sharing key findings is a good way to establish trust and credibility with your users. It may boost community engagement, especially when users who took time to share their thoughts can see that their input has been acknowledged. 
+Sharing key findings is a good way to establish trust and credibility with your users. It may boost community engagement, especially when users who took time to share their thoughts can see that their input has been acknowledged.
 
 Alternatively, if publishing your user personas is not within the scope of your project, you could seek any additional feedback from internal stakeholders as a check to ensure that your user personas are aligned with your business needs.
 
@@ -170,9 +170,9 @@ As you follow the steps for creating user personas, consider these guidelines:
 
 ### Form over function:
 
-Personas originated in marketing and typically include demographic details like gender, ethnicity, age, or income to inform marketing messages. However, for teams that aim to understand product users, these details may or may not be relevant. 
+Personas originated in marketing and typically include demographic details like gender, ethnicity, age, or income to inform marketing messages. However, for teams that aim to understand product users, these details may or may not be relevant.
 
-It’s common to see example of customer personas in the form of profiles with full biographical and demographic details. These biographical profiles are the result of a different purpose and context, and are not necessarily an effective formula for building user-centric personas. Relying on quantitative attributes for user personas can lead to a shallow model for assessing user needs. See a [comparison of customer personas and user personas](User_personas_template_guide.md#user-personas-compared-to-customer-personas).
+It’s common to see example of customer personas in the form of profiles with full biographical and demographic details. These biographical profiles are the result of a different purpose and context, and are not necessarily an effective formula for building user-centric personas. Relying on quantitative attributes for user personas can lead to a shallow model for assessing user needs. See a [comparison of customer personas and user personas](user-personas-guide.md#user-personas-compared-to-customer-personas).
 
 Unless demographic or biographical factors significantly impact your product's use (such as in the case of localization), basing a user persona on this type of information can create unnecessary divisions, while potentially overlooking the common needs that unite users. Similarly, composing elaborate backstories about users' lifestyles, histories, or personalities may improve a team’s ability to empathize with users, but is not likely to address their needs.
 
@@ -182,7 +182,7 @@ Unless demographic or biographical factors significantly impact your product's u
 
 Turning personas into an assignment for others to complete or insisting upon their use will result in frustration and skepticism. In siloed environments especially, not everyone will understand how to use personas in a successful way. Some may see personas as just busywork, or homework to complete, rather than a strategy that pays off in a better product.
 
-**Solution:** 
+**Solution:**
 
 Share and showcase your practical use for user personas with your colleagues. Talk about them with the understanding that they are representations of real users, and suggest that they are a way to bring users' perspectives into your work. Offer the framework as a tool that support their work without imposing their use. When the opportunity arises, encourage a culture of appreciation and enthusiasm for the value user personas provide.
 

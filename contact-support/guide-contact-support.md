@@ -10,9 +10,9 @@ A contact support page typically consists of communication channels, discussion 
   <thead>
     <tr>
       <th></th>
-      <th>Contact support</th>
-      <th>Contact us</th>
-      <th>Support portal</th>
+      <th><strong>Contact support</strong></th>
+      <th><strong>Contact us</strong></th>
+      <th><strong>Support portal</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -120,9 +120,9 @@ Companies tend to have different approaches to solving technical issues with the
 
 * Research your company’s support strategy: When deciding the communication channels for your company/organization’s contact support page, consider picking ones that best align with the customer support strategy. Consider presenting the most important or preferred contact support methods first. For more information about customer support strategies, see [the Contact support process document](process-contact-support.md).
 * Set standards for response times: Help users know when they can reasonably expect to hear back from a support agent.
-* Indicate support agent availability: When adding chat and phone numbers as a communication option, add contact hours to help users gain a better understanding of when support agents are available.  
+* Indicate support agent availability: When adding chat and phone numbers as a communication option, add contact hours to help users gain a better understanding of when support agents are available.
 * Offer self-serve options: Users tend to prefer solving the issue on their own before going to a support agent, so consider adding links to the company’s knowledge base or product community forums.
-* Use plain language: Balancing technical jargon with everyday terms helps users understand what they are reading.  
+* Use plain language: Balancing technical jargon with everyday terms helps users understand what they are reading.
 
 ## About the "Contact support" section
 
