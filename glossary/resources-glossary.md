@@ -29,4 +29,4 @@ The authors of this template want to acknowledge the resources that were consult
 | [“Technique G62: Providing a glossary”](https://www.w3.org/WAI/WCAG22/Techniques/general/G62#:~:text=A%20glossary%20is%20an%20alphabetical,of%20a%20word%20or%20phrase.). WCAG 2.2 Techniques. | Referenced for benefits of a glossary in business use case.<br> **Key Takeaways:** Publishing an online glossary is a web accessibility technique. |
 | [“Glossary maturity levels”](https://thegooddocsproject.dev/docs/glossaries/maturity-levels/). The Good Docs Project. | Referenced for information on glossary types and structures.<br> **Key Takeaways:** Provided contextual information on evolving a simple glossary into a machine-readable and potentially shareable terminology system. |
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.
+Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary%20resources) to give feedback on this template.
