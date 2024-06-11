@@ -105,4 +105,4 @@ Need more support? Check out these links below:
 
 {Note that some companies might choose to put this section at the top of their contact support page in order to encourage users to solve problems on their own before contacting an agent.}
 
-{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.}
+{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support) to give feedback on this template.}

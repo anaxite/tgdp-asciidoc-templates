@@ -113,4 +113,4 @@ One way to do this is to have the glossary owner consult with individuals who ha
 
 If done on a regular basis, glossary reviews and updates should not require a large amount of work. However, changes can pile up very quickly if the glossary goes without updates for an extended period.
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.
+Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary%20process) to give feedback on this template.
