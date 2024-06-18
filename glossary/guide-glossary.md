@@ -86,6 +86,6 @@ A hyperlink to the definition’s source, if you did not write the definition yo
 | --- | --- | --- | --- |
 | application programming interface | API | An API, or application programming interface, is a set of defined rules that enable different applications to communicate with each other. It acts as an intermediary layer that processes data transfers between systems, letting companies open their application data and functionality to external third-party developers, business partners, and internal departments within their companies. | https://www.ibm.com/topics/api |
 
-—-
+---
 
 > Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary%20guide) to give feedback on this template.

@@ -52,6 +52,6 @@ Consider using the following methods to evaluate whether your contact support pa
 * **Check the hyperlinks:** Test the hyperlinks and contact methods to ensure they work correctly and that they send users to the right communication channel or information. Remember, incorrect or broken links create a frustrating and difficult user experience.
 * **Develop strategies to work with limited resources:** If your organization or company decides to remove information such as the company’s email address from the contact support page, find alternative solutions that can support and empower customers in troubleshooting issues. This could be done by providing a link to the community forums.
 
-—-
+---
 
 > Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20process) to give feedback on this template.

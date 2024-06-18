@@ -171,6 +171,6 @@ This section is where users go if they need more self-help with their issues. Po
 
 Some companies might want users to choose self-help options before they contact a support agent. For example, they may encourage users to browse a knowledge base or community forum. If your company prefers this strategy, consider placing this section before the contact details section when using the template.
 
-—-
+---
 
 > Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20guide) to give feedback on this template.

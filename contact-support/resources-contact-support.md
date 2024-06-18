@@ -80,6 +80,6 @@ The authors want to acknowledge the resources that have been inspired or informe
   </tr>
 </table>
 
-—-
+---
 
 > Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20resources) to give feedback on this template.
