@@ -1,6 +1,6 @@
 # Glossary guide
 
-Thank you for downloading this template from The Good Docs Project! Before using the glossary [template](https://gitlab.com/tgdp/templates/-/blob/main/glossary/guide-glossary.md), read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the glossary [template](https://gitlab.com/tgdp/templates/-/blob/main/glossary/guide-glossary.md), read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## Introduction
 
@@ -88,4 +88,4 @@ A hyperlink to the definition’s source, if you did not write the definition yo
 
 —-
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary%20guide) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary%20guide) to give feedback on this template.

@@ -1,6 +1,8 @@
 # Contact support user guide
 
-Thank you for downloading this template from The Good Docs Project! Before using the [contact support template](template-contact-support.md), read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
+
 
 ## About the contact support page
 
@@ -171,4 +173,4 @@ Some companies might want users to choose self-help options before they contact 
 
 —-
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20guide) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20guide) to give feedback on this template.

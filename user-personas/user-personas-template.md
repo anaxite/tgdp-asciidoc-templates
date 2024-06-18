@@ -1,14 +1,14 @@
 # User personas template
 
-This template includes writing instructions and boilerplate text that you can customize, use as-is, or replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
 
-Take a look at the following accompanying resources:
-
-* For step-by-step guidance on creating user personas, explore our [User personas process](user-personas-process.md).
-
-* To see examples and explanations about how to fill in this template, explore the [User persona template guide](user-personas-guide.md).
-
-* To read more from the sources that inspired and shaped our documents on user personas, explore our [User personas resources](user-personas-resources.md).
+> Take a look at the following accompanying resources:
+>
+> * For step-by-step guidance on creating user personas, explore our [User personas process](user-personas-process.md).
+>
+> * To see examples and explanations about how to fill in this template, explore the [User persona template guide](user-personas-guide.md).
+> 
+> * To read more from the sources that inspired and shaped our documents on user personas, explore our [User personas resources](user-personas-resources.md).
 
 ## {Optional: Visual representation of first user persona}
 
@@ -184,4 +184,4 @@ Take a look at the following accompanying resources:
 
 ---
 
-{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20template) to give feedback on this template.}
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20template) to give feedback on this template.

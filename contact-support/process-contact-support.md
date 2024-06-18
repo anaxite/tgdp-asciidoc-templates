@@ -1,6 +1,8 @@
 # Contact support page process
 
-Thank you for downloading this template from The Good Docs Project! Before using the [contact support template](template-contact-support.md), read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
+
+
 
 ## How to do research for your company’s contact support page
 
@@ -52,4 +54,4 @@ Consider using the following methods to evaluate whether your contact support pa
 
 —-
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20process) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20process) to give feedback on this template.

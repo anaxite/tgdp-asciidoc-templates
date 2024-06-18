@@ -1,14 +1,14 @@
 # User personas resources
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
-Take a look at the following accompanying resources:
-
-* For step-by-step guidance on creating user personas, explore our [User personas process](user-personas-process.md).
-
-* To fill out your user characteristics into a structured template, explore the [User persona template](user-personas-template.md).
-
-* To see examples and explanations about how to fill in the User personas template, explore the [User persona template guide](user-personas-guide.md).
+> Take a look at the following accompanying resources:
+>
+> * For step-by-step guidance on creating user personas, explore our [User personas process](user-personas-process.md).
+>
+> * To fill out your user characteristics into a structured template, explore the [User persona template](user-personas-template.md).
+>
+> * To see examples and explanations about how to fill in the User personas template, explore the [User persona template guide](user-personas-guide.md).
 
 ## Examples of user personas
 
@@ -45,4 +45,4 @@ The authors of this template want to acknowledge the resources that were consult
 
 ---
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20resources) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20resources) to give feedback on this template.
