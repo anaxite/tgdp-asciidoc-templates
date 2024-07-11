@@ -84,7 +84,7 @@ A good definition should provide enough information to prevent a reader from con
 
 For example, defining a tiger as a large cat native to Asia is insufficient, as this definition could also apply to several leopard species. A much more thorough and accurate definition of a tiger would be: “a large Asian carnivorous mammal (Panthera tigris) of the cat family having a usually tawny coat transversely striped with black” (Merriam-Webster).
 
-Starting the A definition sentence should start with the term it is describing. Using the example above, you’d edit the definition to start with “A tiger is a large Asian carnivorous mammal…” rather than just “a large Asian carnivorous mammal…”.
+A definition sentence should start with the term it is describing. Using the example above, you’d edit the definition to start with “A tiger is a large Asian carnivorous mammal…” rather than just “a large Asian carnivorous mammal…”.
 
 Repeating the term in its own definition may seem redundant. But as a table-based glossary grows, it gets easier for its terms to get separated from its definitions, especially if the glossary is manipulated with scripting or queries. Repeating the term within the definition is a redundancy that allows the **Definition** column to remain coherent, even when removed from the **Term** column.
 
