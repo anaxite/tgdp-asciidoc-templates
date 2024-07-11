@@ -1,6 +1,6 @@
 # User personas template guide
 
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## Introduction
 
@@ -225,4 +225,4 @@ Select only the relevant attributes needed for your project. Some potential attr
 
 ---
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[ feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20guide) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[ feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20guide) to give feedback on this template.

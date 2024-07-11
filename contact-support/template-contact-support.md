@@ -1,6 +1,7 @@
-{If you need more information about how to fill in this template, read the accompanying [Contact Support guide](../contact-support/guide-contact-support.md).}
+> If you need more information about how to fill in this template, read the accompanying [guide](./guide-contact-support.md).
 
-{This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.}
+> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
+
 
 # Contact {company name or product name} support
 
@@ -105,4 +106,6 @@ Need more support? Check out these links below:
 
 {Note that some companies might choose to put this section at the top of their contact support page in order to encourage users to solve problems on their own before contacting an agent.}
 
-{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support) to give feedback on this template.}
+---
+
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support) to give feedback on this template.
