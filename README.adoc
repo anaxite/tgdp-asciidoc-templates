@@ -131,6 +131,7 @@ See the following tables for the current status.
 | Template | Converted | Reviewed
 | api-quickstart | ☑ | ☐
 | api-reference | ☑ | ☐
+| bug-report | ☑ | ☐
 | ... | |
 
 |===
