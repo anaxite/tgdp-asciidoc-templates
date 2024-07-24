@@ -1,7 +1,7 @@
 = API reference guide
 
 ****
-Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our https://gitlab.com/tgdp/templates[templates GitLab repository^].
+Thank you for downloading this template, converted from the original at The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in https://github.com/anaxite/tgdp-asciidoc-templates[this repository], or see the originals in The Good Docs Project's https://gitlab.com/tgdp/templates[templates GitLab repository].
 ****
 
 This `api-reference-guide` document provides extra writing tips
@@ -274,8 +274,5 @@ Use the _Response example_ section to provide an example of the response body if
 '''''
 
 ****
-Explore other templates from https://thegooddocsproject.dev/[The Good
-Docs Project^]. Use our
-https://thegooddocsproject.dev/feedback/?template=API%20reference%20guide[feedback
-form^] to give feedback on this template.
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
 ****

@@ -34,5 +34,5 @@ Before you begin, make sure you meet these prerequisites:
 '''''
 
 ****
-Explore other templates from https://thegooddocsproject.dev/[The Good Docs Project]. Use our https://thegooddocsproject.dev/feedback/?template=API%20quickstart[feedback form] to give feedback on this template.
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
 ****

@@ -1,8 +1,7 @@
 = Bug Report Template
 
 ****
-If you need more information about how to fill in this template, read
-the accompanying xref:./guide-bug-report.adoc[guide].
+If you need more information about how to fill in this template, read the accompanying xref:./guide-bug-report.adoc[guide].
 ****
 
 ****
@@ -61,5 +60,5 @@ This template includes writing instructions and boilerplate text that you can cu
 '''''
 
 ****
-Explore other templates from https://thegooddocsproject.dev/[The Good Docs Project]. Use our https://thegooddocsproject.dev/feedback/?template=Bug%20report[feedback form] to give feedback on this template.
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
 ****
