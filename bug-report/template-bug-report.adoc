@@ -60,5 +60,5 @@ This template includes writing instructions and boilerplate text that you can cu
 '''''
 
 ****
-Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse https://thegooddocsproject.dev/[the originals^].
 ****
