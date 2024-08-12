@@ -8,12 +8,12 @@ This is the guide that explains how to use the Good Docs Project Code of Conduct
 
 The Code of Conduct template set includes:
 
-* A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `about-code-of-conduct.adoc`.
-* A Code of Conduct response plan template that you can use to create and explain the policy your team will follow as you handle Code of Conduct incidents. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-response-plan.adoc`. See its accompanying guide: `about-code-of-conduct-response-plan.adoc`.
-* A Code of Conduct incident record template for a form that is filled out when a community moderator takes an incident report from a community member. This template is included in the same folder as the Code of Conduct template as the Code of Conduct template and is named `template-code-of-conduct-incident-record.adoc`. See its accompanying guide: `about-code-of-conduct-incident-record.adoc`.
-* A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `about-code-of-conduct-remediation-record.adoc`.
+* A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `guide-code-of-conduct.adoc`.
+* A Code of Conduct response plan template that you can use to create and explain the policy your team will follow as you handle Code of Conduct incidents. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-response-plan.adoc`. See its accompanying guide: `guide-code-of-conduct-response-plan.adoc`.
+* A Code of Conduct incident record template for a form that is filled out when a community moderator takes an incident report from a community member. This template is included in the same folder as the Code of Conduct template as the Code of Conduct template and is named `template-code-of-conduct-incident-record.adoc`. See its accompanying guide: `guide-code-of-conduct-incident-record.adoc`.
+* A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `guide-code-of-conduct-remediation-record.adoc`.
 
-You might also consider using the `../our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+You might also consider using the `our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
 
 '''''
 
@@ -43,6 +43,7 @@ It means that you are willing to do more than simply talk about your community v
 
 Hopefully, as you create your Code of Conduct and your response plan, your community's leaders will have many important conversations about your community values and you will carefully think through the logistics of promoting and upholding those values in your community.
 
+
 == Maintenance strategy
 
 A Code of Conduct is considered a foundational document for a healthy open source community.
@@ -55,6 +56,7 @@ An annual review can also be a good time to check that each community moderator 
 Ensure that someone in your community is responsible for regularly reviewing the Code of Conduct policies.
 If your community uses a calendar, add an event to your calendar to remind you to do the yearly review.
 
+
 == Content of the Code of Conduct template
 
 The following sections provide guidance about how to fill out each section of the Code of Conduct template.
@@ -62,15 +64,18 @@ The following sections provide guidance about how to fill out each section of th
 [TIP]
 The Code of Conduct template includes boilerplate text that you can customize or adapt, use as-is, or completely replace with your own text. If you use the boilerplate text, make sure you replace the project name placeholders with your own project name.
 
+
 === About the "Opening statement of purpose" section
 
 The first section in the template is where you'll put your opening statement of purpose.
 Your opening statement should include information about your core values and the purpose of your Code of Conduct.
 
+
 === About the "Expected behavior" section
 
 An effective Code of Conduct can help your community feel more warm and welcoming if it starts with a section outlining the positive, prosocial behaviors you'd like to see in your community.
 In the _Expected behavior_ section, you can list the specific behaviors and attitudes that best support the ethical values you mentioned in your opening statement.
+
 
 === About the "Behavior that will not be tolerated" section
 
@@ -78,7 +83,8 @@ The _Behavior that will not be tolerated_ section is extremely important, so you
 Due to differences in culture and upbringing, some community members might not actually be aware of what behavior is considered unacceptable.
 For that reason, you need to clearly explain the specific behaviors that are not allowed in your community.
 
-As the authors of the https://frameshiftconsulting.com/resources/code-of-conduct-book/[Code of Conduct book] state: "People often overestimate the level of shared values they have with other people in their community, which is why it is helpful to state your community's values explicitly."
+As the authors of the https://frameshiftconsulting.com/resources/code-of-conduct-book/[Code of Conduct book^] state: "People often overestimate the level of shared values they have with other people in their community, which is why it is helpful to state your community's values explicitly."
+
 
 === About the "Consequences of unacceptable behavior" section
 
@@ -90,11 +96,13 @@ This section should include:
 * A list of the possible consequences that could result from a Code of Conduct violation.
 * A statement indicating that compliance is necessary.
 
+
 === About the "Reporting an incident" section
 
 The _Reporting an incident_ section should include clear instructions for reporting Code of Conduct violations.
 In this section, try to communicate that your moderators are approachable and that you encourage community members to reach out, even if they're not sure if the incident is a violation or not.
 Not all community members necessarily want to file an official report and may instead just want to discuss their concerns in private.
+
 
 === About the "Addressing Code of Conduct reports" section
 
@@ -108,17 +116,20 @@ This section could include:
 
 Consider adding a link to your xref:./template-code-of-conduct-response-plan.adoc[Code of Conduct response plan] to this section for more details.
 
+
 === About the "Where this Code of Conduct applies" section
 
 This section indicates the spaces in which the Code of Conduct applies.
 Include the main spaces where your community officially communicates with one another or where project leaders might represent the project publicly.
 Examples can include conferences, meetups, community forums, and social media platforms.
 
+
 === About the "Related resources" section
 
-Use the _Related resources_ section to link out to helpful resources, such as xref:./template-code-of-conduct-response-plan.adoc[Code of Conduct response plan] and your xref:../our-team/template-our-team[Our team page].
+Use the _Related resources_ section to link to helpful resources, such as your xref:./template-code-of-conduct-response-plan.adoc[Code of Conduct response plan] and your xref:../our-team/template-our-team.adoc[Our team page].
 
 You can also include any articles that inspired your values as you wrote your Code of Conduct.
+
 
 == Additional resources
 
@@ -138,6 +149,6 @@ In creating this Code of Conduct, the authors adapted or were inspired by the fo
 '''''
 
 ****
-Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse https://thegooddocsproject.dev/[the originals^].
 ****
 

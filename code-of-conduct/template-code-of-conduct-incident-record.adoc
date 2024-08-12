@@ -10,13 +10,13 @@ The Code of Conduct incident record template includes:
 
 * Placeholder text that you can replace with your own text. This text is indicated in {curly braces}.
 * Writing instructions, also in {curly braces}.
-* A supplementary Code of Conduct incident record guide that provides more detailed information about using this template. Read the guide document first! This guide is located in the same folder as the template and is named `about-code-of-conduct-incident-record.adoc`.
+* A supplementary Code of Conduct incident record guide that provides more detailed information about using this template. Read the guide document first! This guide is located in the same folder as the template and is named `guide-code-of-conduct-incident-record.adoc`.
 * The Code of Conduct remediation template should be used along with several other templates, including:
-** A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `about-code-of-conduct.adoc`.
-** A Code of Conduct response plan template that you can use to create and explain the policy your team will follow as you handle Code of Conduct incidents. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-response-plan.adoc`. See its accompanying guide: `about-code-of-conduct-response-plan.adoc`.
-** A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `about-code-of-conduct-remediation-record.adoc`.
+** A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `guide-code-of-conduct.adoc`.
+** A Code of Conduct response plan template that you can use to create and explain the policy your team will follow as you handle Code of Conduct incidents. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-response-plan.adoc`. See its accompanying guide: `guide-code-of-conduct-response-plan.adoc`.
+** A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `guide-code-of-conduct-remediation-record.adoc`.
 
-You might also consider using the `../our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+You might also consider using the `our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
 
 '''''
 
@@ -26,7 +26,7 @@ When gathering information from an incident reporter, strive for these goals:
 * *Safety* - Bring in another community moderator if something about the situation is unsafe or dangerous, but avoid inviting too many moderators into the discussion. You might make the incident reporter feel overwhelmed if there are too many moderators.
 * *Privacy* - Where possible, always strive to uphold the incident reporter's privacy. Obtain permission to proceed with the investigation.
 * *Empathy* - Be an understanding, active listener who recognizes the real emotions being felt by the incident reporter. For example, say: "It sounds like you felt (this emotion) when (this thing happened)."
-* *Support* - You should default to believing the reporter. Ask if there's anything you can do to make the incident reporter feel safe, emotionally whole, or restored. Explain the possible outcomes that are available, as provided in the xref:./CODE_OF_CONDUCT.adoc[Code of Conduct] (correction, warning, temporary ban, permanent ban). However, avoid making any direct promises for exactly how the report will be handled until the investigation is concluded.
+* *Support* - You should default to believing the reporter. Ask if there's anything you can do to make the incident reporter feel safe, emotionally whole, or restored. Explain the possible outcomes that are available, as provided in the xref:code-of-conduct.adoc[Code of Conduct] (correction, warning, temporary ban, permanent ban). However, avoid making any direct promises for exactly how the report will be handled until the investigation is concluded.
 * *Acknowledgment* - At the end of the meeting, thank the incident reporter for being part of the community and for reaching out about the incident. Let the reporter know that you will be in touch to explain how the incident will be resolved after the investigation is complete.
 
 == Incident number
@@ -68,5 +68,5 @@ Where possible, avoid documenting your opinion about the incident, or any inform
 '''''
 
 ****
-Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse https://thegooddocsproject.dev/[the originals^].
 ****

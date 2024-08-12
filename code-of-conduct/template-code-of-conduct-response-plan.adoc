@@ -10,29 +10,30 @@ The Code of Conduct response plan template includes:
 
 * Placeholder text that you can replace with your own text. This text is indicated in {curly braces}.
 * Writing instructions, also in {curly braces}.
-* A supplementary Code of Conduct response plan guide that provides more detailed information about using this template. Read the guide document first! This guide is located in the same folder as the template and is named `about-code-of-conduct-response-plan.adoc`.
+* A supplementary Code of Conduct response plan guide that provides more detailed information about using this template. Read the guide document first! This guide is located in the same folder as the template and is named `guide-code-of-conduct-response-plan.adoc`.
 * The Code of Conduct remediation template should be used along with several other templates, including:
-** A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `about-code-of-conduct.adoc`.
-** A Code of Conduct incident record template for a form that is filled out when a community moderator takes an incident report from a community member. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-incident-record.adoc`. See its accompanying guide: `about-code-of-conduct-incident-record.adoc`.
-** A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `about-code-of-conduct-remediation-record.adoc`.
+** A Code of Conduct that you can use to create and explain your community's Code of Conduct. This template is included in the same folder as this template and is named `template-code-of-conduct.adoc`. See its accompanying guide: `guide-code-of-conduct.adoc`.
+** A Code of Conduct incident record template for a form that is filled out when a community moderator takes an incident report from a community member. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-incident-record.adoc`. See its accompanying guide: `guide-code-of-conduct-incident-record.adoc`.
+** A Code of Conduct remediation record template for a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation. This template is included in the same folder as the Code of Conduct template and is named `template-code-of-conduct-remediation-record.adoc`. See its accompanying guide: `guide-code-of-conduct-remediation-record.adoc`.
 
-You might also consider using the `../our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+You might also consider using the `our-team/template-our-team.adoc` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
 
 '''''
 
 
 This document explains:
-//TODO
-* How to contact the current {Project name} community moderators to report a xref:./code-of-conduct.adoc[Code of Conduct] incident.
+
+* How to contact the current {Project name} community moderators to report a xref:code-of-conduct.adoc[Code of Conduct] incident.
 * The policies and procedures that community moderators should follow when responding to a Code of Conduct incident.
-* Additional governing policies for the community moderator team (also sometimes referred to as the "Code of Conduct committee").
+* Additional governing policies for the community moderator team (also referred to as the "Code of Conduct committee").
 
 == Community moderators
 
-For a list of the current {Project name} community moderators and the best way to reach them, see xref:./our-team.adoc[Community Moderators].
+For a list of the current {Project name} community moderators and the best way to reach them, see xref:our-team.adoc[Community Moderators].
 You may contact any of these individuals to make a Code of Conduct incident report.
 
 {Instead of linking to a separate page, you could list the names of the community moderators and their preferred contact information.}
+
 
 == Contacting a community moderator
 
@@ -42,6 +43,7 @@ To make an incident report, send a message to the community moderator that you h
 To contact a moderator, please {describe your preferred contact method, such as sending a direct private message on Slack or some other method}.
 Community moderators will respond as soon as they possibly can.
 They might also request a one-on-one meeting with you (such as a phone call or online video conference) to get more information about the incident.
+
 
 == Community moderator values
 
@@ -53,6 +55,7 @@ Community moderators should strive to:
 * Be fair and open-minded when investigating an incident and recommending a response.
 * Develop healthy self-care strategies to prevent burnout and reduce personal stress.
 
+
 == Requirements for community moderators
 
 The {Project name} community moderators play an important role in the community because they help ensure the community is healthy, vibrant, and welcoming to all contributors.
@@ -63,7 +66,8 @@ For that reason, individuals who are interested in serving as community moderato
 * Commit to a day or half-day formal training in incident response skills within {required time period} of joining the moderator team. Formal training involves taking an online training course in incident response skills, mediation, or arbitration. Or it could also involve participating in an informal workshop in incident response skills led by a current {Project name} moderator. Upon joining the moderator team, the new moderator can work with other moderators to develop a training plan and ensure this training requirement is met.
 * Be recommended for the team by either another community moderator or a member of the {Project name} core team. Nominated individuals should demonstrate the values and qualities necessary to carry out the responsibilities of community moderators. Note that {Project name} community members may first volunteer for consideration and then seek a recommendation afterwards.
 * Be active contributors to the {Project name} who have participated in the community for at least three months. Contributions can include authoring pull requests, submitting issues, attending meetings regularly, and participating in {Project name} community forums.
-* Not be subject of an ongoing {Project name} Code of Conduct incident.
+* Not be the subject of an ongoing {Project name} Code of Conduct incident.
+
 
 == Community moderator terms of service
 
@@ -73,22 +77,25 @@ Community members should stagger terms of service to ensure there is some contin
 Community moderators may return to serve second terms after a break from service.
 If possible, outgoing community moderators should recommend a replacement from the community.
 
+
 == Reviewing the Code of Conduct
 
 The Code of Conduct and this document (the Code of Conduct response plan) should be reviewed by the moderator team at least once a year, typically in {time period}, to ensure these documents are meeting the needs of the community.
 The {Project name} community will notify the community of any revisions by publicizing the revisions in the community's {communication platforms used by the community}.
 
+
 == Key terms used in this document
 
 This section provides a definition of key terms and roles that appear in the incident response policy that follows this section:
 
-* *Incident* - A behavior by a member of the {Project name} that allegedly violates the community xref:./code-of-conduct.adoc[Code of Conduct]. Also known as a "Code of Conduct incident" or "conduct violation."
+* *Incident* - A behavior by a member of the {Project name} that allegedly violates the community xref:code-of-conduct.adoc[Code of Conduct]. Also known as a "Code of Conduct incident" or "conduct violation."
 * *Incident report* - Begins when a member of the {Project name} reports behavior that violates the community Code of Conduct. The incident report refers to the violating behavior that is then investigated by community moderators. Also sometimes referred to as the "report."
 * *Incident reporter* - The person who reports a Code of Conduct violation to a community moderator. Also sometimes referred to as the "reporter."
 * *Handling an incident report* - The process of investigating and resolving an incident report as explained using the processes and guidelines in the subsequent sections. Also known as "investigating a report."
 * *Investigating moderator* - The community moderator who will handle the incident report and ensure the report moves through all six stages. Also known as the "investigator."
 * *Accused individual* - The accused individual is the person who is alleged to have violated the Code of Conduct.
-* *Escrowed reports* - An incident report where the reporter has not give permission to proceed with an investigation. If the reporter gives permission to keep the report "in escrow," these escrowed reports will not be acted upon until there is a second report of the same incident or a similar incident involving the same individual. The goal of an escrow report is to retain a record of incidents in case there is a pattern of misbehavior by the same individual.
+* *Escrowed reports* - An incident report where the reporter has not given permission to proceed with an investigation. If the reporter gives permission to keep the report "in escrow," these escrowed reports will not be acted upon until there is a second report of the same incident or a similar incident involving the same individual. The goal of an escrow report is to retain a record of incidents in case there is a pattern of misbehavior by the same individual.
+
 
 == Handling incident reports
 
@@ -111,7 +118,6 @@ See <<_preventing_conflicts_of_interest, Preventing conflicts of interest>> for 
 
 All incident reports have six stages:
 
-[arabic]
 . Listen
 . Triage
 . Recommend
@@ -121,6 +127,7 @@ All incident reports have six stages:
 
 See the following sections for more information about what occurs in each phase.
 
+
 === Listen
 
 During the listening phase, the investigating moderator will:
@@ -128,7 +135,9 @@ During the listening phase, the investigating moderator will:
 * Listen to the incident reporter's explanation of the Code of Conduct violation.
 * Explain the available outcomes.
 * Obtain permission to proceed to the next steps in the investigation.
-* Fill out the {link to your xref:./code-of-conduct-incident-record.adoc[Code of Conduct incident record]}. NOTE: This record can be filled out after taking the report if needed.
+* Fill out the {link to your xref:code-of-conduct-incident-record.adoc[Code of Conduct incident record]}.
++
+NOTE: This record can be filled out after taking the report if needed.
 
 Throughout the process, the investigating moderator will treat the reporter's identity as confidential and will only disclose their identity to other moderators on a need-to-know basis.
 
@@ -139,12 +148,12 @@ During this meeting, the investigating moderator should:
 * Note the reporter's name and contact information.
 * If possible, note the incident's date, time, and/or location.
 * Listen carefully to the incident reporter and get a complete understanding of the incident, its context, and the parties involved. The moderator should strive to listen with empathy and understanding. They should default to believing the incident responder.
-* Ask what the incident reporter would need in order to feel emotionally whole or restored. Explain the possible outcomes that are available, as provided in the xref:./code-of-conduct.adoc[Code of Conduct] (correction, warning, temporary ban, permanent ban). However, the moderator should not make any direct promises for exactly how the report will be handled until the investigation is concluded.
+* Ask what the incident reporter would need in order to feel emotionally whole or restored. Explain the possible outcomes that are available, as provided in the xref:code-of-conduct.adoc[Code of Conduct] (correction, warning, temporary ban, permanent ban). However, the moderator should not make any direct promises for exactly how the report will be handled until the investigation is concluded.
 * Obtain permission from the incident reporter to proceed with the investigation. If permission is not granted, the investigator can offer to hold the incident report in escrow. Escrowed reports will not be acted upon until there is a second report of the same incident or a similar incident involving the same individual. The goal of escrow reports is to retain incident reports in case there is a pattern of misbehavior by the same individual.
 
 During or immediately after the meeting, the investigating moderator should:
 
-* Fill out the {link to your xref:./code-of-conduct-incident-record.adoc[Code of Conduct incident record]} to ensure that all information from the meeting has been accurately captured. The investigating moderator should avoid over-documenting the incident: only document information required to inform the report resolution. Where possible, avoid documenting your opinion about the incident, or any information about individuals that is not relevant to the report.
+* Fill out the {link to your xref:code-of-conduct-incident-record.adoc[Code of Conduct incident record]} to ensure that all information from the meeting has been accurately captured. The investigating moderator should avoid over-documenting the incident: only document information required to inform the report resolution. Where possible, avoid documenting your opinion about the incident, or any information about individuals that is not relevant to the report.
 * File the incident record in the {describe where these files are kept}. If permission was not obtained, the incident report is kept in the incident record archives. If the incident reporter wanted to keep the report in escrow, the incident report is kept in the escrow incident report archives.
 * If permission was obtained, proceed with the rest of the investigation.
 
@@ -158,87 +167,63 @@ After completing the listening phase, the moderator should assign an initial ris
 
 Severity refers to the overall seriousness of the behavior and the risk that behavior will be repeated:
 
-Severity level
+[%header,cols="1,2a,2a"]
+|===
 
-Definition
+| Severity level | Definition | Examples
 
-Examples
+| High
+| * The incident is extremely severe and/or there is a high likelihood the behavior will occur again in the future.
+* Incidents that are harassing, dangerous, abusive, violent, offensive (especially to marginalized groups), or which threaten the physical and/or psychological safety of one or more community members are designated as high severity.
+* Repeated medium- or low-level offenses by the same individual are also automatically designated as high severity.
+| * Sexual assault or unwanted sexual attention
+* Violent threats or language
+* Personal attacks
+* Derogatory language (especially aimed at marginalized groups)
+* Repeated inappropriate comments after a warning
 
-High
+| Medium
+| * The incident is moderately severe and is potentially disruptive to the community.
+* The incident could possibly cause one or more community members to feel unwelcome or uncomfortable in the community.
+| * Mildly inappropriate comments or jokes
+* Bullying
+* Tone-policing
+* Repeatedly dominating a conversation (such as repeatedly talking over another person or not inviting discussion from others where appropriate)
+* Excessive profanity
+* Sustained disruptions of community events
 
-The incident is extremely severe and/or there is a high likelihood the behavior will occur again in the future.
+| Low
+| The incident is minor in nature and doesn't pose serious harm or risk of harm.
+| Heated discussions or disagreements between community members.
 
-Incidents that are harassing, dangerous, abusive, violent, offensive (especially to marginalized groups), or which threaten the physical and/or psychological safety of one or more community members are designated as high severity.
+|===
 
-Repeated medium- or low-level offenses by the same individual are also automatically designated as high severity.
-
-Sexual assault or unwanted sexual attention
-
-Violent threats or language
-
-Personal attacks
-
-Derogatory language (especially aimed at marginalized groups)
-
-Repeated inappropriate comments after a warning
-
-Medium
-
-The incident is moderately severe and is potentially disruptive to the community.
-
-The incident could possibly cause one or more community members to feel unwelcome or uncomfortable in the community.
-
-Mildly inappropriate comments or jokes
-
-Bullying
-
-Tone-policing
-
-Repeatedly dominating a conversation (such as repeatedly talking over another person or not inviting discussion from others where appropriate)
-
-Excessive profanity
-
-Sustained disruptions of community events
-
-Low
-
-The incident is minor in nature and doesn't pose serious harm or risk of harm.
-
-Heated discussions or disagreements between community members.
 
 ==== Impact levels
 
 Impact refers to how public the incident was and the number of community members who were or who could have been impacted by the incident, especially members of marginalized communities:
 
-Impact level
+[%header,cols="1,2a,2a"]
+|===
 
-Definition
+| Impact level | Definition | Examples
 
-Examples
+| High
+| * The incident occurred in a public event, in a {Project name} meeting or community event, or on a community forum (such as on a mailing list or in Slack).
+* The accused individual is a {Project name} leader or a high-profile community member.
+* Incidents involving someone who was representing {Project name} in an official capacity while the incident occurred.
+| * Comments in the {Project name} Slack or mailing list.
+* Comments or actions in a {Project name} meeting.
+* Speaking or participating at a conference or fund-raising event as a representative of {Project name}.
 
-High
+| Low
+| The incident occurred in a private conversation, message, or email. Also includes posts or comments made in a forum or context outside of official {Project name} channels, such as on a personal social media account.
+| * Comments in a private email.
+* Comments in a direct message on Slack.
+* Comments or actions made in a one-on-one meeting in person or virtually.
 
-The incident occurred in a public event, in a {Project name} meeting or community event, or on a community forum (such as on a mailing list or in Slack).
+|===
 
-The accused individual is a {Project name} leader or a high-profile community member.
-
-Incidents involving someone who was representing {Project name} in an official capacity while the incident occurred.
-
-Comments in the {Project name} Slack or mailing list.
-
-Comments or actions in a {Project name} meeting.
-
-Speaking or participating at a conference or fund-raising event as a representative of {Project name}.
-
-Low
-
-The incident occurred in a private conversation, message, or email. Also includes posts or comments made in a forum or context outside of official {Project name} channels, such as on a personal social media account.
-
-Comments in a private email.
-
-Comments in a direct message on Slack.
-
-Comments or actions made in a one-on-one meeting in person or virtually.
 
 === Recommend
 
@@ -247,7 +232,7 @@ Moderators who have recused themselves over conflicts of interest should not be 
 It would also be appropriate to send a separate direct message on Slack to notify the other moderators to check for the email to ensure everyone is aware of the email.
 
 In the email, indicate your assessment of the incident's severity and impact level and your recommended response.
-See the xref:./code-of-conduct.adoc[Code of Conduct] for the four possible responses to a conduct violation (correction, warning, temporary ban, permanent ban).
+See the xref:code-of-conduct.adoc[Code of Conduct] for the four possible responses to a conduct violation (correction, warning, temporary ban, permanent ban).
 
 Community moderators have an ethical responsibility to respond as soon as possible and work toward consensus.
 Delaying action in response to the Code of Conduct violation can possibly make the situation worse.
@@ -259,12 +244,13 @@ In incidents where a tied vote occurs, the chair of the community moderators act
 
 After a response has been recommended, the incident reporter should be notified of the outcome of the investigation and the recommended response before proceeding.
 
+
 === Respond
 
 Once the incident response has been determined by the community moderators, the investigating moderator should meet with the accused individual in person (either through an online video conference or by phone).
 The moderator may invite an additional moderator to attend the meeting if support is desired.
 
-Before this meeting, the investigating moderator should fill out the xref:./code-of-conduct-remediation-record.adoc[Code of Conduct remediation record] and use this document to guide the meeting.
+Before this meeting, the investigating moderator should fill out the xref:code-of-conduct-remediation-record.adoc[Code of Conduct remediation record] and use this document to guide the meeting.
 
 In this meeting, the moderator should explain the nature of the reported incident and the specifics of the incident response (correction, warning, temporary ban, permanent ban).
 The accused individual will be given a chance to respond (within reason) and will be informed about the process for appealing the incident response.
@@ -280,7 +266,7 @@ If an apology is required as part of the response, the following options are per
 * The apology can be delivered to the investigating community moderator who will then deliver it to the incident reporter.
 * The apology may be delivered in a public forum with permission from the investigating community moderator.
 
-During or immediately after the meeting, the investigating moderator should fill out the any additional notes on the xref:./code-of-conduct-remediation-record[Code of Conduct remediation record] to ensure that all information from the meeting has been accurately captured.
+During or immediately after the meeting, the investigating moderator should fill out the any additional notes on the xref:code-of-conduct-remediation-record[Code of Conduct remediation record] to ensure that all information from the meeting has been accurately captured.
 
 === Resolve
 
@@ -291,10 +277,11 @@ If a temporary ban was implemented, the community moderator who handled the inci
 
 All documentation should be stored in the {describe where your documents are kept}:
 
-* The xref:./code-of-conduct-incident-record.adoc[Code of Conduct incident record] form.
-* The xref:./code-of-conduct-remediation-record.adoc[Code of Conduct remediation record] form.
+* The xref:code-of-conduct-incident-record.adoc[Code of Conduct incident record] form.
+* The xref:code-of-conduct-remediation-record.adoc[Code of Conduct remediation record] form.
 
 It is important to file this documentation to enable the community moderators to identify and prevent potential repeated patterns of abuse.
+
 
 == Handling incident appeals
 
@@ -307,6 +294,7 @@ When an appeal is requested, 2-3 members of {Project name} {team name} will revi
 They will consult with the community moderators about the investigation and decision-making process to determine if the Code of Conduct was fairly and properly applied.
 They will then recommend to uphold, modify, or reverse the original incident response.
 Decisions made by the {Project name} community moderators are final.
+
 
 == Preventing conflicts of interest
 
@@ -326,5 +314,5 @@ In this situation, recusal is not necessary and moderators should instead make t
 '''''
 
 ****
-Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse the https://thegooddocsproject.dev/[originals].
+Explore https://github.com/anaxite/tgdp-asciidoc-templates[other converted templates] from The Good Docs Project, or browse https://thegooddocsproject.dev/[the originals^].
 ****
