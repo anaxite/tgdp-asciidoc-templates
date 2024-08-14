@@ -125,13 +125,21 @@ The templates in this pack help you create content you need as your documentatio
 Not all articles from the original project have been converted to Asciidoc yet.
 See the following tables for the current status.
 
-[%header,cols="3,1a,1a",width="50%"]
+[%header,cols="3,1,1",width="50%"]
 .Template conversion
 |===
 | Template | Converted | Reviewed
 | api-quickstart | ☑ | ☐
 | api-reference | ☑ | ☐
 | bug-report | ☑ | ☐
+| code-of-conduct | ☑ | ☐
+| concept | ☑ | ☐
+| contact-support | ☐ | ☐
+| contributing-guide | ☐ | ☐
+| glossary | ☐ | ☐
+| how-to | ☐ | ☐
+| installation-guide | ☐ | ☐
+| our-team | ☐ | ☐
 | ... | |
 
 |===
@@ -142,15 +150,13 @@ See the following tables for the current status.
 | Content | Converted | Reviewed
 | .gitlab/* | ☑ | ☐
 | README | ☑ | ☐
-| STYLE-GUIDE | ☐ | ☐
-| template-deliverables | ☐ | ☐
-| writing-tips | ☐ | ☐
+| writing-tips | ☑ | ☐
 
 |===
 
 == Provide feedback on the templates
 
-To provide feedback related to the Asciidoc version of the templates, https://github.com/anaxite/tgdp-asciidoc-templates/issues[open a GitHub issue^].
+To provide feedback related to the Asciidoc version of the templates, https://github.com/anaxite/tgdp-asciidoc-templates/issues[open a GitHub issue in this repository^].
 
 To provide feedback related to the original templates, use the project's https://thegooddocsproject.dev/feedback/?template=Project%20README%20on%20Gitlab[feedback form^]. You can also https://gitlab.com/tgdp/templates/-/issues[open an issue^].
 
