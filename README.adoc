@@ -134,7 +134,7 @@ See the following tables for the current status.
 | bug-report | ☑ | ☐
 | code-of-conduct | ☑ | ☐
 | concept | ☑ | ☐
-| contact-support | ☐ | ☐
+| contact-support | ☑ | ☐
 | contributing-guide | ☐ | ☐
 | glossary | ☐ | ☐
 | how-to | ☐ | ☐
